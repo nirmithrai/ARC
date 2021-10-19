@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Zettelkasten",
+      "path": "Zettelkasten.md"
+    },
+    {
+      "basename": "How to Take Smart Notes",
+      "path": "How to Take Smart Notes.md"
+    },
+    {
+      "basename": "What Makes a Good Zettle",
+      "path": "What Makes a Good Zettle.md"
+    },
+    {
       "basename": "Different types of Notes",
       "path": "Different types of Notes.md"
     },
@@ -9,12 +21,24 @@
       "path": "How does Zettelkasten work.md"
     },
     {
-      "basename": "Zettelkasten Toolbox",
-      "path": "Zettelkasten Toolbox.md"
+      "basename": "Writing as Thinking",
+      "path": "Writing as Thinking.md"
     },
     {
-      "basename": "Zettelkasten",
-      "path": "Zettelkasten.md"
+      "basename": "On Highlighting",
+      "path": "On Highlighting.md"
+    },
+    {
+      "basename": "Turning Notes into Products",
+      "path": "Turning Notes into Products.md"
+    },
+    {
+      "basename": "Comparison between Notes",
+      "path": "Comparison between Notes.md"
+    },
+    {
+      "basename": "Zettelkasten Toolbox",
+      "path": "Zettelkasten Toolbox.md"
     },
     {
       "basename": "Core Ideas of Zettelkasten",
@@ -39,18 +63,6 @@
     {
       "basename": "Different Kinds of Attention",
       "path": "Different Kinds of Attention.md"
-    },
-    {
-      "basename": "How to Take Smart Notes",
-      "path": "How to Take Smart Notes.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Obsidian.md"
-    },
-    {
-      "basename": "its a competor",
-      "path": "its a competor.md"
     }
   ],
   "omittedPaths": [],

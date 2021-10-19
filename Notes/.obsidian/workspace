@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "40f92bb6e66f0d3e",
+        "id": "c91fcc591f77c8aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,36 +12,6 @@
             "file": "Zettelkasten.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "290aac61396d27ff",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How does Zettelkasten work.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ac31e9cc94d424d4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Different types of Notes.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c91fcc591f77c8aa",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -123,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Different types of Notes.md",
+                "file": "Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac31e9cc94d424d4",
+  "active": "c91fcc591f77c8aa",
   "lastOpenFiles": [
-    "Different types of Notes.md",
-    "How does Zettelkasten work.md",
-    "Zettelkasten Toolbox.md",
     "Zettelkasten.md",
-    "Core Ideas of Zettelkasten.md",
-    "Power of Simple Ideas in Zettlekasten.md",
-    "Power of Simple Rules.md",
-    "Piggybacking in Game Design.md",
-    "Core Ideas.md",
-    "Niklas Luhmann.md"
+    "How to Take Smart Notes.md",
+    "What makes a good Zettle/What Makes a Good Zettle.md",
+    "Different types of Notes.md",
+    "its a competor.md",
+    "How does Zettelkasten work.md",
+    "Writing as Thinking.md",
+    "What makes a good Zettle/Main note.md",
+    "On Highlighting.md",
+    "Turning Notes into Products.md"
   ]
 }
