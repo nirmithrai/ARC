@@ -52,7 +52,7 @@
             "id": "4f37feac23cfd076",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "empty",
               "state": {}
             }
           }
@@ -91,11 +91,8 @@
             "id": "929364a915372c7f",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
