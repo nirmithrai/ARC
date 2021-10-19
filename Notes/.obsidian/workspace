@@ -4,14 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "4b8dd39d04c54664",
+        "id": "40f92bb6e66f0d3e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Zettelkasten.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "290aac61396d27ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "How does Zettelkasten work.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c91fcc591f77c8aa",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -93,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "How does Zettelkasten work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,14 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b8dd39d04c54664",
+  "active": "290aac61396d27ff",
   "lastOpenFiles": [
+    "How does Zettelkasten work.md",
+    "Zettelkasten.md",
+    "Core Ideas of Zettelkasten.md",
+    "Power of Simple Ideas in Zettlekasten.md",
+    "Power of Simple Rules.md",
+    "Piggybacking in Game Design.md",
+    "Core Ideas.md",
+    "Niklas Luhmann.md",
     "Untitled.md",
-    "sakdjf.md",
-    "Untitled 3.md",
-    "Obsidian.md",
-    "Untitled 2.md",
-    "its a competor.md",
-    "Untitled 1.md"
+    "Different Kinds of Attention.md"
   ]
 }
