@@ -7,8 +7,11 @@
         "id": "d90ab544d84e3227",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,5 +106,7 @@
     "collapsed": true
   },
   "active": "d90ab544d84e3227",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
 }
