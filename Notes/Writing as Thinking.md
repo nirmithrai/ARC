@@ -7,3 +7,8 @@ Questions emerge naturally when an idea is taken down in writing.
 Why is it so? Because once it's written down it has the responsibility of being true. So it is easier to challenge it when it isn't true.
 
 Giving our brain such external scaffolding will prove beneficial to deeper learning.
+
+#### Source
+[[How to Take Smart Notes]]
+
+#zettelkasten

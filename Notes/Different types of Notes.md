@@ -11,3 +11,8 @@ Notes picked from Main Notes for a given project. Can be archived or trashed aft
 
 [[Comparison between Notes]]
 [[On Highlighting]]
+
+#### Source
+[[How to Take Smart Notes]]
+
+#zettelkasten

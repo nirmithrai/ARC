@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Importance of Writing",
+      "path": "Importance of Writing.md"
+    },
+    {
+      "basename": "Four Underlying Principles of Zettelkasten",
+      "path": "Four Underlying Principles of Zettelkasten.md"
+    },
+    {
       "basename": "Zettelkasten",
       "path": "Zettelkasten.md"
     },
     {
-      "basename": "How to Take Smart Notes",
-      "path": "How to Take Smart Notes.md"
+      "basename": "Footers",
+      "path": "Footers.md"
     },
     {
-      "basename": "What Makes a Good Zettle",
-      "path": "What Makes a Good Zettle.md"
+      "basename": "Comparison between Notes",
+      "path": "Comparison between Notes.md"
+    },
+    {
+      "basename": "Core Ideas of Zettelkasten",
+      "path": "Core Ideas of Zettelkasten.md"
+    },
+    {
+      "basename": "Different Kinds of Attention",
+      "path": "Different Kinds of Attention.md"
     },
     {
       "basename": "Different types of Notes",
@@ -21,28 +37,20 @@
       "path": "How does Zettelkasten work.md"
     },
     {
-      "basename": "Writing as Thinking",
-      "path": "Writing as Thinking.md"
+      "basename": "Niklas Luhmann",
+      "path": "Niklas Luhmann.md"
+    },
+    {
+      "basename": "How to Take Smart Notes",
+      "path": "How to Take Smart Notes.md"
     },
     {
       "basename": "On Highlighting",
       "path": "On Highlighting.md"
     },
     {
-      "basename": "Turning Notes into Products",
-      "path": "Turning Notes into Products.md"
-    },
-    {
-      "basename": "Comparison between Notes",
-      "path": "Comparison between Notes.md"
-    },
-    {
-      "basename": "Zettelkasten Toolbox",
-      "path": "Zettelkasten Toolbox.md"
-    },
-    {
-      "basename": "Core Ideas of Zettelkasten",
-      "path": "Core Ideas of Zettelkasten.md"
+      "basename": "Piggybacking in Game Design",
+      "path": "Piggybacking in Game Design.md"
     },
     {
       "basename": "Power of Simple Ideas in Zettlekasten",
@@ -53,16 +61,20 @@
       "path": "Power of Simple Rules.md"
     },
     {
-      "basename": "Piggybacking in Game Design",
-      "path": "Piggybacking in Game Design.md"
+      "basename": "Turning Notes into Products",
+      "path": "Turning Notes into Products.md"
     },
     {
-      "basename": "Niklas Luhmann",
-      "path": "Niklas Luhmann.md"
+      "basename": "What Makes a Good Zettle",
+      "path": "What Makes a Good Zettle.md"
     },
     {
-      "basename": "Different Kinds of Attention",
-      "path": "Different Kinds of Attention.md"
+      "basename": "Writing as Thinking",
+      "path": "Writing as Thinking.md"
+    },
+    {
+      "basename": "Zettelkasten Toolbox",
+      "path": "Zettelkasten Toolbox.md"
     }
   ],
   "omittedPaths": [],

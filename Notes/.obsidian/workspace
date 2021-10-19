@@ -13,6 +13,28 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "ed643ab7af115f4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Four Underlying Principles of Zettelkasten.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a9f6c97fe5145209",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Importance of Writing.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -93,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Importance of Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c91fcc591f77c8aa",
+  "active": "a9f6c97fe5145209",
   "lastOpenFiles": [
+    "Writing is the only thing that matters.md",
+    "Four Underlying Principles of Zettelkasten.md",
     "Zettelkasten.md",
-    "How to Take Smart Notes.md",
-    "What makes a good Zettle/What Makes a Good Zettle.md",
+    "Untitled.md",
+    "Comparison between Notes.md",
+    "Core Ideas of Zettelkasten.md",
+    "Different Kinds of Attention.md",
     "Different types of Notes.md",
-    "its a competor.md",
     "How does Zettelkasten work.md",
-    "Writing as Thinking.md",
-    "What makes a good Zettle/Main note.md",
-    "On Highlighting.md",
-    "Turning Notes into Products.md"
+    "Niklas Luhmann.md"
   ]
 }

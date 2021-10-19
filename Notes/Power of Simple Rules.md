@@ -7,3 +7,8 @@ This relates to principles of Zettelkasten as well where the core idea is to kee
 Example:
 [[Power of Simple Ideas in Zettlekasten]]
 [[Piggybacking in Game Design]]
+
+#### Source
+[[How to Take Smart Notes]]
+
+#zettelkasten

@@ -4,3 +4,4 @@ Example:
 In _Plants vs Zombies,_ Plants were chosen because the defenders aren't supposed to move and using plants was a good way to convey that fact. Similarly Zombies were chose to represent the attackers because they were supposed to be slow and stupid. which is commonly associated with zombies.
 
 Sometimes piggybacking can also influence game design if a metaphor doesn't fit perfectly.
+

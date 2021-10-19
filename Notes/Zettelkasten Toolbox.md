@@ -12,3 +12,8 @@ Only need 4 tools, "More is unnecessary, less is impossible"
 4.  An Editor
     I'm using Notion.
 	>No Editor can improve an argument.
+
+#### Source
+[[How to Take Smart Notes]]
+
+#zettelkasten

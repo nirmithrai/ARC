@@ -8,3 +8,8 @@ Main purpose of **literature notes** is that you don't have to read the book eve
 **Literature notes** only pertains to the context of the book itself, whereas every **main notes'** context is other notes in the slipbox.
 
 **Literature notes** and **Main Notes** are permanent. **Fleeting notes** can be discarded after processing.
+
+#### Source
+[[How to Take Smart Notes]]
+
+#zettelkasten

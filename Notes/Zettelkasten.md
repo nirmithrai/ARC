@@ -6,6 +6,12 @@ With the help of this technique Luhmann achieved a lot in the world of academic 
 
 [[How does Zettelkasten work]]
 
+[[Four Underlying Principles of Zettelkasten]]
+
+
+
 ---
 #### Source
 [[How to Take Smart Notes]]
+
+#zettelkasten

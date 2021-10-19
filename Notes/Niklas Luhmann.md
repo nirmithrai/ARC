@@ -20,3 +20,8 @@ This is the mother of all projects and he finished it almost exactly 30 years la
 In 30 years he published 58 books and hundreds of articles. Even after his death half a dozen more books were published from unfinished manuscripts.
 
 > If I want something, it's more time. The only thing that really is a nuisance is a lack of time
+
+#### Source
+[[How to Take Smart Notes]]
+
+#zettelkasten #people

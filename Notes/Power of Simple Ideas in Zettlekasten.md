@@ -14,3 +14,8 @@ Even inside the slipbox this philosophy prevails.
 -   Each of the notes are to be linked by their apparent proximity to each other
 
 [[Power of Simple Rules]]
+
+#### Source
+[[How to Take Smart Notes]]
+
+#zettelkasten

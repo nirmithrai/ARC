@@ -9,3 +9,8 @@ A Main Note has to be
 -   Not Copied We need to write the notes in our own words and not just copy quotes from the book. This rewriting requires understanding of the text and acts as a test to ensure proper learning.
 -   Argued and Questioned Never take any information in the box for granted. Asking questions will open up new lines of inquires which will further contribute to the slipbox.
 -   Sourced Know where the information came from.
+
+#### Source
+[[How to Take Smart Notes]]
+
+#zettelkasten
