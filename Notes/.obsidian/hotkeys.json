@@ -69,7 +69,7 @@
   "workspace:split-horizontal": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "["
     }
@@ -77,9 +77,17 @@
   "workspace:split-vertical": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "]"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
     }
   ]
 }

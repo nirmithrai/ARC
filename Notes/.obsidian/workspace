@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f7791499f5846c01",
+        "id": "4b8dd39d04c54664",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 2.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "b40e0bb6322de8e4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled 2.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "cc36d241a6eb8125",
-        "type": "split",
-        "children": [
-          {
-            "id": "9762d42c71f66c15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "790e9becf20ba0e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -133,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,14 +130,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "790e9becf20ba0e9",
+  "active": "4b8dd39d04c54664",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "Untitled.md",
     "sakdjf.md",
-    "Obsidian.md",
-    "its a competor.md",
-    "Untitled 1.md",
     "Untitled 3.md",
-    "Untitled.md"
+    "Obsidian.md",
+    "Untitled 2.md",
+    "its a competor.md",
+    "Untitled 1.md"
   ]
 }
