@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "233f2738883fc9b2",
+    "id": "9156eabdc4fd7423",
     "type": "split",
     "children": [
       {
-        "id": "c10091b1926d3088",
+        "id": "d90ab544d84e3227",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,61 +18,96 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "96ebe47c67946bd1",
-    "type": "mobile-drawer",
+    "id": "e85eec7a9f1bc407",
+    "type": "split",
     "children": [
       {
-        "id": "91f5543809d2d4c1",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "887f5c3c0245b706",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "8b3ac8fdc4f4227e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6995470da7111720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb6c0b213cd6b293",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f37feac23cfd076",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "bbff1f7ca4102557",
-    "type": "mobile-drawer",
+    "id": "98ad66818b10c8ed",
+    "type": "split",
     "children": [
       {
-        "id": "f8f3747dc31a723e",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Obsidian.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "5910a47e1f0a1966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c192845c42bfd07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "929364a915372c7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c10091b1926d3088",
+  "active": "d90ab544d84e3227",
   "lastOpenFiles": [
-    "Obsidian.md"
+    "Obsidian.md",
+    "Untitled.md"
   ]
 }
