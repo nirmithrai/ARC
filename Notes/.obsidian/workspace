@@ -60,14 +60,6 @@
             }
           },
           {
-            "id": "4f37feac23cfd076",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a6eee939703d7474",
             "type": "leaf",
             "state": {
@@ -113,14 +105,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "929364a915372c7f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
