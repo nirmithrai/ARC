@@ -26,23 +26,12 @@
         }
       },
       {
-        "id": "e4ffa7124820b4e4",
+        "id": "164f3346416d0b2f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Cluster approach to writing.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a56a248b17c97ddd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mind Maps.md",
             "mode": "source"
           }
         }
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind Maps.md",
+                "file": "Four Underlying Principles of Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a56a248b17c97ddd",
+  "active": "ed643ab7af115f4e",
   "lastOpenFiles": [
-    "Mind Maps.md",
-    "Cluster approach to reading.md",
-    "Cluster approach to writing.md",
     "Four Underlying Principles of Zettelkasten.md",
-    "Importance of Writing.md",
-    "Deliberate Practice.md",
-    "Writing is the only thing that matters.md",
+    "Different Kinds of Attention.md",
+    "Cluster approach to writing.md",
     "Zettelkasten.md",
-    "Untitled.md",
-    "Comparison between Notes.md"
+    "Cluster approach to reading.md",
+    "Types of Reading.md",
+    "How to Read a Book by Mortimer J. Adler.md",
+    "Mind Maps.md",
+    "Importance of Writing.md",
+    "Deliberate Practice.md"
   ]
 }

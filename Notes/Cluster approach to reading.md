@@ -6,3 +6,4 @@ During [[Analytical Reading]], find points/topics which relate to these anchors,
 Related: 
 [[Cluster approach to writing]]
 [[Mind Maps]]
+[[Types of Reading]]
