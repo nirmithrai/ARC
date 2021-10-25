@@ -6,8 +6,11 @@ With the help of this technique Luhmann achieved a lot in the world of academic 
 
 [[How does Zettelkasten work]]
 
-[[Four Underlying Principles of Zettelkasten]]
-
+## Four Underlying Principles of Zettelkasten
+1. [[Importance of Writing]]
+2. [[Different types of Notes]]
+3. [[Cluster approach to writing]]
+4. Let the work carry you forward
 
 
 ---

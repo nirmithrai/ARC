@@ -13,28 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "ed643ab7af115f4e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Four Underlying Principles of Zettelkasten.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "164f3346416d0b2f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cluster approach to writing.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Four Underlying Principles of Zettelkasten.md",
+                "file": "Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,12 +114,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed643ab7af115f4e",
+  "active": "c91fcc591f77c8aa",
   "lastOpenFiles": [
-    "Four Underlying Principles of Zettelkasten.md",
-    "Different Kinds of Attention.md",
-    "Cluster approach to writing.md",
     "Zettelkasten.md",
+    "Four Underlying Principles of Zettelkasten.md",
+    "Cluster approach to writing.md",
+    "Different Kinds of Attention.md",
     "Cluster approach to reading.md",
     "Types of Reading.md",
     "How to Read a Book by Mortimer J. Adler.md",
