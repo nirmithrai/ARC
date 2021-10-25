@@ -60,7 +60,7 @@
   "note-refactor-obsidian:app:extract-selection-first-line": [
     {
       "modifiers": [
-        "Mod",
+        "Alt",
         "Shift"
       ],
       "key": "R"
@@ -88,6 +88,14 @@
         "Alt"
       ],
       "key": "W"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-content-only": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
     }
   ]
 }
