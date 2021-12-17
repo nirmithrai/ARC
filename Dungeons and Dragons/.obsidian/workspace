@@ -26,17 +26,6 @@
         }
       },
       {
-        "id": "624994f2752064c6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Klarg.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "3ab36f0f4eb94449",
         "type": "leaf",
         "state": {
@@ -117,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Klarg.md",
+                "file": "Cragmaw Hideout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,13 +135,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "624994f2752064c6",
+  "active": "0861880be174495c",
   "lastOpenFiles": [
-    "Klarg.md",
     "Cragmaw Hideout.md",
-    "Cragmaw Tribe.md",
     "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md",
     "Goblin Ambush.md",
+    "Klarg.md",
+    "Cragmaw Tribe.md",
     "What the Goblins Know.md",
     "Lost Mines of Phandelver/Locations/Cragmaw Castle.md",
     "Lost Mines of Phandelver/Assets/Maps/Map of the Adventure.png",
