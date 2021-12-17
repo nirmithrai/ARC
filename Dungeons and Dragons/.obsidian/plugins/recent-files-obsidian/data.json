@@ -5,20 +5,32 @@
       "path": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md"
     },
     {
-      "basename": "Yeemik",
-      "path": "Yeemik.md"
-    },
-    {
       "basename": "Sildar Hallwinter",
       "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
+    },
+    {
+      "basename": "Iarno Albrek",
+      "path": "Iarno Albrek.md"
+    },
+    {
+      "basename": "Part 1 - Goblin Arrows",
+      "path": "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md"
+    },
+    {
+      "basename": "Yeemik",
+      "path": "Yeemik.md"
     },
     {
       "basename": "What the Goblins Know",
       "path": "Lost Mines of Phandelver/What the Goblins Know.md"
     },
     {
-      "basename": "Part 1 - Goblin Arrows",
-      "path": "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md"
+      "basename": "Intoduction",
+      "path": "Lost Mines of Phandelver/Intoduction.md"
+    },
+    {
+      "basename": "Lords' Alliance",
+      "path": "Lords' Alliance.md"
     },
     {
       "basename": "Goblin Ambush",
@@ -43,10 +55,6 @@
     {
       "basename": "Player Map",
       "path": "Lost Mines of Phandelver/Assets/Maps/Player Map.jpg"
-    },
-    {
-      "basename": "Intoduction",
-      "path": "Lost Mines of Phandelver/Intoduction.md"
     },
     {
       "basename": "Gundren Rockseeker",

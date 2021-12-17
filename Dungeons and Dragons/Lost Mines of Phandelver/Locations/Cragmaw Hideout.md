@@ -107,7 +107,11 @@ hides and unwashed goblins.
 - 5 goblins + 1 Leader with 12Hp
 - Leader on the upper area, everyone else on lower area
 - [[Sildar Hallwinter]] (1HP) is a prisoner in the upper area. Securely bound. 
-- Leader [[Yeemik]], wants to parlay.
-- Asks 
+- Leader [[Yeemik]], wants to parlay. Drags prisoner over the edge and says, "Truce or he dies"
+- Asks players to kill [[Klarg]] in exchange for prisoner
+- [[Sildar Hallwinter]] warns not to trust him
+- If deal is taken and completed, will ask for a ransom to release the prisoner
+- If deal not taken, he pushes the prisoner over the edge. Prisoner is now dying.
+- If [[Sildar Hallwinter]] is saved. He asks players to escort him to [[Phandalin]] with a promise of 50gp as reward.
 # 7. Twin Pools Cave
 # 8. Klarg's Cave
