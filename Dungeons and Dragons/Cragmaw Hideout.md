@@ -55,7 +55,16 @@ rod driven into the base of a stalagmite.
 - 3 wolves are tied up here.
 - Other goblins ignore their sounds
 - 15 Animal Handling to calm them. 10 if given food
+- **Fissure** Narrow opening on the east wall leads to a natural chimney that climbs 30 ft to [[#8 Klarg's Cave]]. 10 Athletics to climb up/down. Move at half speed if success. No up or down for 6-9. < 5 fall down and take fall damage land prone.
+
+### Developments
+Wolves can get out of their chains.
+- Immediately if goaded
+- every round wolves attempt strength check. DC 15 first try, 10 after 1 success, then its free
+- Goblin or Bugbear can set them free
+- 
 # 4. Steep Passage
+
 # 5. Overpass
 # 6. Goblin Den
 # 7. Twin Pools Cave
