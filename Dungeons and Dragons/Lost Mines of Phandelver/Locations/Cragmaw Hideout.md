@@ -64,8 +64,50 @@ Wolves can get out of their chains.
 - Goblin or Bugbear can set them free
 - 
 # 4. Steep Passage
+**Dark**
+> The main passage from the cave mouth climbs steeply
+upward, the stream plunging and splashing down its west
+side. In the shadows, a side passage leads west across the
+other side of the stream.
+
+- Dim vision can see the [[#5 Overpass]]. To find the goblin on it, Perception vs Stealth
+>In the shadows of the ceiling to the north, you can just make
+out the dim shape of a rickety bridge of wood and rope
+crossing over the passage ahead of you. Another passage
+intersects this one, twenty feet above the floor.
+- Goblin on the [[#5 Overpass]] will see them if they have light or aren't in stealth. If it sees them, it sneaks to [[#7 Twin Pools Cave]] to release the [[#Flood]].
+
+### Western Passage
+There is a small tunnel through which players can crawl through to the [[#6 Goblin Den]]. Dex check to see if they get stuck
 
 # 5. Overpass
+> The stream passage continues up beyond another set of
+uneven steps ahead, bending eastward as it goes. A waterfall
+sounds out from a larger cavern somewhere ahead of you.
+
+- **Bridge**(5 AC, 10HP): 20 ft above the stream. Can be climbed on to from the walls (15 Athletics).
+
+## Flood
+- Large pools in [[#7 Twin Pools Cave]] can be released to flood water down the main passage. 
+- 1 round after the [[#5 Overpass]] goblin signals the water is released up to [[#1 Cave Mouth]].
+> The passage is suddenly filled with a mighty roar, as a huge
+surge of rushing water pours down from above!
+- People on bridge and on the wall are safe.
+- Anyone within 10 ft of the  [[#Western Passage]] or [[#3 Kennel]] makes 10 Dex save.
+- Anyone in the main passage has to make 15 STR save.
+- Anyone swept away is knocked prone and washed down to [[#1 Cave Mouth]], takes 1d6 bldg dmg.
+- Goblins get ready for 2nd pool. 
 # 6. Goblin Den
+> This large cave is divided in half by a ten-foot-high
+escarpment. A steep natural staircase leads from the lower
+portion to the upper ledge. The air is hazy with the smoke of
+a cooking fire, and pungent from the smell of poorly cured
+hides and unwashed goblins.
+
+- 5 goblins + 1 Leader with 12Hp
+- Leader on the upper area, everyone else on lower area
+- [[Sildar Hallwinter]] (1HP) is a prisoner in the upper area. Securely bound. 
+- Leader [[Yeemik]], wants to parlay.
+- Asks 
 # 7. Twin Pools Cave
 # 8. Klarg's Cave

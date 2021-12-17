@@ -1,2 +1,0 @@
-The Cragmaw tribe of goblins has established a hideout from which it can easily harass and plunder traffic moving along the [[Triboar Trail]] or the path to [[Phandalin]]. The [[Cragmaw tribe]] is so named because each member of the
-tribe sharpens its teeth so they appear fierce and jagged.

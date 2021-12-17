@@ -20,7 +20,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cragmaw Hideout.md",
+            "file": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2125fd8e264ce83f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Yeemik.md",
             "mode": "source"
           }
         }
@@ -31,7 +42,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What the Goblins Know.md",
+            "file": "Lost Mines of Phandelver/What the Goblins Know.md",
             "mode": "source"
           }
         }
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cragmaw Hideout.md",
+                "file": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +148,15 @@
   },
   "active": "0861880be174495c",
   "lastOpenFiles": [
-    "Cragmaw Hideout.md",
+    "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
+    "Yeemik.md",
+    "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
+    "Lost Mines of Phandelver/What the Goblins Know.md",
     "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md",
-    "Goblin Ambush.md",
-    "Klarg.md",
-    "Cragmaw Tribe.md",
-    "What the Goblins Know.md",
+    "Lost Mines of Phandelver/Locations/Goblin Ambush.md",
+    "Lost Mines of Phandelver/Characters/Klarg.md",
+    "Lost Mines of Phandelver/Groups/Cragmaw Tribe.md",
     "Lost Mines of Phandelver/Locations/Cragmaw Castle.md",
-    "Lost Mines of Phandelver/Assets/Maps/Map of the Adventure.png",
-    "Lost Mines of Phandelver/Assets/Maps/Player Map.jpg",
-    "Lost Mines of Phandelver/Intoduction.md"
+    "Lost Mines of Phandelver/Assets/Maps/Map of the Adventure.png"
   ]
 }

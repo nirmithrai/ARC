@@ -2,7 +2,19 @@
   "recentFiles": [
     {
       "basename": "Cragmaw Hideout",
-      "path": "Cragmaw Hideout.md"
+      "path": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md"
+    },
+    {
+      "basename": "Yeemik",
+      "path": "Yeemik.md"
+    },
+    {
+      "basename": "Sildar Hallwinter",
+      "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
+    },
+    {
+      "basename": "What the Goblins Know",
+      "path": "Lost Mines of Phandelver/What the Goblins Know.md"
     },
     {
       "basename": "Part 1 - Goblin Arrows",
@@ -10,19 +22,15 @@
     },
     {
       "basename": "Goblin Ambush",
-      "path": "Goblin Ambush.md"
+      "path": "Lost Mines of Phandelver/Locations/Goblin Ambush.md"
     },
     {
       "basename": "Klarg",
-      "path": "Klarg.md"
+      "path": "Lost Mines of Phandelver/Characters/Klarg.md"
     },
     {
       "basename": "Cragmaw Tribe",
-      "path": "Cragmaw Tribe.md"
-    },
-    {
-      "basename": "What the Goblins Know",
-      "path": "What the Goblins Know.md"
+      "path": "Lost Mines of Phandelver/Groups/Cragmaw Tribe.md"
     },
     {
       "basename": "Cragmaw Castle",
