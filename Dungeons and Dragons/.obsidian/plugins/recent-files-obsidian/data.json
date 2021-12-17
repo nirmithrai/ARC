@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Cragmaw Hideout",
+      "path": "Cragmaw Hideout.md"
+    },
+    {
+      "basename": "Cragmaw Tribe",
+      "path": "Cragmaw Tribe.md"
+    },
+    {
       "basename": "Part 1 - Goblin Arrows",
-      "path": "Lost Mines of Phandelver/Part 1 - Goblin Arrows.md"
+      "path": "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md"
+    },
+    {
+      "basename": "Goblin Ambush",
+      "path": "Goblin Ambush.md"
     },
     {
       "basename": "What the Goblins Know",
@@ -14,11 +26,11 @@
     },
     {
       "basename": "Map of the Adventure",
-      "path": "Lost Mines of Phandelver/Maps/Map of the Adventure.png"
+      "path": "Lost Mines of Phandelver/Assets/Maps/Map of the Adventure.png"
     },
     {
       "basename": "Player Map",
-      "path": "Lost Mines of Phandelver/Maps/Player Map.jpg"
+      "path": "Lost Mines of Phandelver/Assets/Maps/Player Map.jpg"
     },
     {
       "basename": "Intoduction",
