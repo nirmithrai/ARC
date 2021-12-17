@@ -5,6 +5,18 @@
       "path": "Lost Mines of Phandelver/Part 1 - Goblin Arrows.md"
     },
     {
+      "basename": "What the Goblins Know",
+      "path": "What the Goblins Know.md"
+    },
+    {
+      "basename": "Cragmaw Castle",
+      "path": "Lost Mines of Phandelver/Locations/Cragmaw Castle.md"
+    },
+    {
+      "basename": "Map of the Adventure",
+      "path": "Lost Mines of Phandelver/Maps/Map of the Adventure.png"
+    },
+    {
       "basename": "Player Map",
       "path": "Lost Mines of Phandelver/Maps/Player Map.jpg"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Gundren Rockseeker",
       "path": "Lost Mines of Phandelver/Characters/Gundren Rockseeker.md"
-    },
-    {
-      "basename": "Map of the Adventure",
-      "path": "Lost Mines of Phandelver/Maps/Map of the Adventure.png"
     },
     {
       "basename": "Forge of Spells",
