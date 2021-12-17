@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "84a48592cfa9340e",
+    "type": "split",
+    "children": [
+      {
+        "id": "951350f6f6ee0b41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lost Mines of Phandelver/Part 1 - Goblin Arrows.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e85eec7a9f1bc407",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b3ac8fdc4f4227e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6995470da7111720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb6c0b213cd6b293",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Rockseekers",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6eee939703d7474",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ceb042877cf27f83",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 188
+  },
+  "right": {
+    "id": "98ad66818b10c8ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "5910a47e1f0a1966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c192845c42bfd07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lost Mines of Phandelver/Part 1 - Goblin Arrows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbd83381112ca5ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "951350f6f6ee0b41",
+  "lastOpenFiles": [
+    "Lost Mines of Phandelver/Part 1 - Goblin Arrows.md",
+    "Lost Mines of Phandelver/Maps/Player Map.jpg",
+    "Lost Mines of Phandelver/Intoduction.md",
+    "Lost Mines of Phandelver/Characters/Gundren Rockseeker.md",
+    "Gundren Rockseeker.png",
+    "Lost Mines of Phandelver/Maps/Map of the Adventure.png",
+    "Lost Mines of Phandelver/Locations/Forge of Spells.md",
+    "Pasted image 20211217123418.png",
+    "Deliberate Practice.md",
+    "Importance of Writing.md"
+  ]
+}
