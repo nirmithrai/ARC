@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c91fcc591f77c8aa",
+        "id": "a6f52bd94814a2d0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten.md",
+            "file": "Deliberate Practice.md",
             "mode": "source"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "98ad66818b10c8ed",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Deliberate Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +113,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c91fcc591f77c8aa",
+  "active": "a6f52bd94814a2d0",
   "lastOpenFiles": [
+    "Deliberate Practice.md",
+    "Importance of Writing.md",
     "Zettelkasten.md",
     "Four Underlying Principles of Zettelkasten.md",
     "Cluster approach to writing.md",
@@ -123,8 +124,6 @@
     "Cluster approach to reading.md",
     "Types of Reading.md",
     "How to Read a Book by Mortimer J. Adler.md",
-    "Mind Maps.md",
-    "Importance of Writing.md",
-    "Deliberate Practice.md"
+    "Mind Maps.md"
   ]
 }
