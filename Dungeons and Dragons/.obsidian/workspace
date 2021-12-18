@@ -4,35 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "765c58f778af457e",
-        "type": "split",
-        "children": [
-          {
-            "id": "951350f6f6ee0b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "3cbf7e0a1d6ab2fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
         "id": "0861880be174495c",
         "type": "leaf",
         "state": {
@@ -40,17 +11,6 @@
           "state": {
             "file": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "a58a7e2fac6923e4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
-            "mode": "source"
           }
         }
       }
@@ -156,8 +116,8 @@
   "active": "0861880be174495c",
   "lastOpenFiles": [
     "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
-    "Lionshield Coster.md",
     "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
+    "Lionshield Coster.md",
     "Iarno Albrek.md",
     "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md",
     "Yeemik.md",
