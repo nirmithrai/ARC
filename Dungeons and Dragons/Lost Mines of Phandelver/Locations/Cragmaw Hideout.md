@@ -55,14 +55,16 @@ rod driven into the base of a stalagmite.
 - 3 wolves are tied up here.
 - Other goblins ignore their sounds
 - 15 Animal Handling to calm them. 10 if given food
-- **Fissure** Narrow opening on the east wall leads to a natural chimney that climbs 30 ft to [[#8 Klarg's Cave]]. 10 Athletics to climb up/down. Move at half speed if success. No up or down for 6-9. < 5 fall down and take fall damage land prone.
+
+### Fissure
+Narrow opening on the east wall leads to a natural chimney that climbs 30 ft to [[#8 Klarg's Cave]]. 10 Athletics to climb up/down. Move at half speed if success. No up or down for 6-9. < 5 fall down and take fall damage land prone.
 
 ### Developments
 Wolves can get out of their chains.
 - Immediately if goaded
 - every round wolves attempt strength check. DC 15 first try, 10 after 1 success, then its free
 - Goblin or Bugbear can set them free
-- 
+
 # 4. Steep Passage
 **Dark**
 > The main passage from the cave mouth climbs steeply
@@ -113,5 +115,57 @@ hides and unwashed goblins.
 - If deal is taken and completed, will ask for a ransom to release the prisoner
 - If deal not taken, he pushes the prisoner over the edge. Prisoner is now dying.
 - If [[Sildar Hallwinter]] is saved. He asks players to escort him to [[Phandalin]] with a promise of 50gp as reward.
+- Hopes you clear the cave of goblins
+
+### Treasure
+[[Yeemik]] carries a pouch containing three gold teeth (1 gp each) and 15 sp.
 # 7. Twin Pools Cave
+> This cavern is half filled with two large pools of water. A
+narrow waterfall high in the eastern wall feeds the pool, which
+drains out the western end of the chamber to form the stream
+that flows out of the cave mouth below. Low fieldstone walls
+serve as dams holding the water in. A wide exit stands to the
+south, while two smaller passages lead west. The sound of
+the waterfall echoes through the cavern, making it difficult to hear
+
+- 3 goblins guard the room
+- if warned, they are on alert
+- sound of fighting drowned out by the waterfall
+- when fight breaks out 1 goblin runs to [[#8 Klarg's Cave]] to warn [[Klarg]]
+
+**Rock Dams**
+Simple dam of fieldstone. If [[#Flood]] has triggered these are mostly empty.
 # 8. Klarg's Cave
+> Sacks and crates of looted provisions are piled up in the
+south end of this large cave. To the west, the floor slopes
+toward a narrow opening that descends into darkness. A
+larger opening leads north down a set of natural stone steps,
+the roar of falling water echoing from beyond. In the middle
+of the cavern, the coals of a large fire smolder.
+
+- Lots of stolen goods here.
+- [[Klarg]] with his pet Wolf, **Ripper**, and 2 goblins are in the cave.
+
+**Fire Pit**
+- 1 fire dmg if stepping on the pit
+- 1d6 if prone on it
+
+**Natural Chimney**
+- shaft that descends to [[#3 Kennel]]. [[#Fissure]]
+
+**Supplies** 
+- these provide *half cover* 
+- Most are marked with image of a **Blue Lion**, a symbol of the [[Lionshield Coster]]
+
+### Developments
+- If [[Klarg]] is warned, everyone is alert, they hide to try to ambush.
+- If not, they can be surprised esp from [[#Fissure]]
+- if wolf is killed, [[Klarg]] attempts to run away through the [[#Fissure]]
+
+### Treasure
+- Bulky stores, which needs the wagon to transport. 50gp for returning them to [[Lionshield Coster]] and their friendship
+- Treasure Chest
+	- 600cp
+	- 110sp
+	- 2x Potions of healing
+	- small Jade Statuette of a frog with tiny golden orbs for eyes (40gp)

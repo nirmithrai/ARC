@@ -39,7 +39,7 @@
           "type": "markdown",
           "state": {
             "file": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -156,6 +156,7 @@
   "active": "0861880be174495c",
   "lastOpenFiles": [
     "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
+    "Lionshield Coster.md",
     "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
     "Iarno Albrek.md",
     "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md",
@@ -163,7 +164,6 @@
     "Lost Mines of Phandelver/What the Goblins Know.md",
     "Lost Mines of Phandelver/Intoduction.md",
     "Lords' Alliance.md",
-    "Lost Mines of Phandelver/Locations/Goblin Ambush.md",
-    "Lost Mines of Phandelver/Characters/Klarg.md"
+    "Lost Mines of Phandelver/Locations/Goblin Ambush.md"
   ]
 }
