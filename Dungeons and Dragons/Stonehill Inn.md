@@ -5,6 +5,7 @@ is filled with locals nursing mugs of ale or cider, all of them
 eyeing you with curiosity
 
 - An inn run by [[Bart Stonehill]]
+![[Bart Stonehill#Description]]
 - also doubles as a provision store and a tavern
 - [[PCs]] can stay here and eat for free 
 - Nearly every person in town trades here at some time or the other
@@ -16,8 +17,9 @@ eyeing you with curiosity
 - Sea Elf [[Fumi Sear]]
 	Will come into play in [[Where in the world is Iarno]]
 - Dwarf [[Elmar Barthen]]
-	Looks to be frustrated
+	Looks to be frustrated. When player's are ready starts [[Orc Tor Mine]]
 - Old Farmer [[Narth]]
+	Just an old dirty farmer playing some cards all alone
 
 # Quests to find here
 - [[Orc Tor Mine]]

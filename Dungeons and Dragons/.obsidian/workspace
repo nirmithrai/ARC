@@ -46,17 +46,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "3150d6b078e2153f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Stonehill Inn.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -129,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stonehill Inn.md",
+                "file": "Lost Mines of Phandelver/Locations/Phandalin.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3150d6b078e2153f",
+  "active": "e922bdf3d1094e9a",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/Locations/Phandalin.md",
     "Stonehill Inn.md",
+    "Bart Stonehill.md",
+    "Where in the world is Iarno.md",
     "Elsa Brown.md",
     "Elmar Barthen.md",
-    "Lost Mines of Phandelver/Locations/Phandalin.md",
-    "Where in the world is Iarno.md",
     "Quests.md",
     "Fumi Sear.md",
     "Vhalak.md",
-    "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md",
-    "Orc Tor Mine.md"
+    "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md"
   ]
 }

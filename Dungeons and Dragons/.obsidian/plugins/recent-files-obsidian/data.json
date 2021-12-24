@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Phandalin",
+      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
+    },
+    {
       "basename": "Stonehill Inn",
       "path": "Stonehill Inn.md"
+    },
+    {
+      "basename": "Bart Stonehill",
+      "path": "Bart Stonehill.md"
+    },
+    {
+      "basename": "Where in the world is Iarno",
+      "path": "Where in the world is Iarno.md"
     },
     {
       "basename": "Elsa Brown",
@@ -11,14 +23,6 @@
     {
       "basename": "Elmar Barthen",
       "path": "Elmar Barthen.md"
-    },
-    {
-      "basename": "Phandalin",
-      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
-    },
-    {
-      "basename": "Where in the world is Iarno",
-      "path": "Where in the world is Iarno.md"
     },
     {
       "basename": "Quests",
@@ -195,10 +199,6 @@
     {
       "basename": "Power of Simple Rules",
       "path": "Power of Simple Rules.md"
-    },
-    {
-      "basename": "Turning Notes into Products",
-      "path": "Turning Notes into Products.md"
     }
   ],
   "omittedPaths": [],
