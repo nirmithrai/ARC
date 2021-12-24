@@ -1,0 +1,6 @@
+- A male doppelganger
+- Hides in [[Phandalin]] as [[Fumi Sear]]
+- Help's [[PCs]] at first to gain their trust
+- Tries to lure [[PCs]] out of town and murder them 
+- Doesn't like attention being drawn towards him
+- Will run if town's people are alerted to his presence

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Elsa Brown",
+      "path": "Elsa Brown.md"
+    },
+    {
+      "basename": "Stonehill Inn",
+      "path": "Stonehill Inn.md"
+    },
+    {
+      "basename": "Elmar Barthen",
+      "path": "Elmar Barthen.md"
+    },
+    {
+      "basename": "Phandalin",
+      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
+    },
+    {
       "basename": "Where in the world is Iarno",
       "path": "Where in the world is Iarno.md"
     },
@@ -9,16 +25,16 @@
       "path": "Quests.md"
     },
     {
+      "basename": "Fumi Sear",
+      "path": "Fumi Sear.md"
+    },
+    {
+      "basename": "Vhalak",
+      "path": "Vhalak.md"
+    },
+    {
       "basename": "Part 2 - Phandalin",
       "path": "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md"
-    },
-    {
-      "basename": "Phandalin",
-      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
-    },
-    {
-      "basename": "Stonehill Inn",
-      "path": "Stonehill Inn.md"
     },
     {
       "basename": "Orc Tor Mine",
@@ -183,18 +199,6 @@
     {
       "basename": "Turning Notes into Products",
       "path": "Turning Notes into Products.md"
-    },
-    {
-      "basename": "What Makes a Good Zettle",
-      "path": "What Makes a Good Zettle.md"
-    },
-    {
-      "basename": "Writing as Thinking",
-      "path": "Writing as Thinking.md"
-    },
-    {
-      "basename": "Zettelkasten Toolbox",
-      "path": "Zettelkasten Toolbox.md"
     }
   ],
   "omittedPaths": [],
