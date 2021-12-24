@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Quests",
-      "path": "Quests.md"
+      "basename": "Where in the world is Iarno",
+      "path": "Where in the world is Iarno.md"
     },
     {
-      "basename": "Part 2 - Phandalin",
-      "path": "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md"
+      "basename": "Quests",
+      "path": "Quests.md"
     },
     {
       "basename": "Phandalin",
       "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
     },
     {
+      "basename": "Stonehill Inn",
+      "path": "Stonehill Inn.md"
+    },
+    {
+      "basename": "Orc Tor Mine",
+      "path": "Orc Tor Mine.md"
+    },
+    {
+      "basename": "Part 2 - Phandalin",
+      "path": "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md"
+    },
+    {
       "basename": "Sildar Hallwinter",
       "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
     },
     {
-      "basename": "Stonehill Inn",
-      "path": "Stonehill Inn.md"
+      "basename": "Cragmaw Castle",
+      "path": "Lost Mines of Phandelver/Locations/Cragmaw Castle.md"
+    },
+    {
+      "basename": "What the Goblins Know",
+      "path": "Lost Mines of Phandelver/What the Goblins Know.md"
+    },
+    {
+      "basename": "Map of the Adventure",
+      "path": "Lost Mines of Phandelver/Assets/Maps/Map of the Adventure.png"
+    },
+    {
+      "basename": "Player Map",
+      "path": "Lost Mines of Phandelver/Assets/Maps/Player Map.jpg"
     },
     {
       "basename": "Phandalin Map",
@@ -53,10 +77,6 @@
       "path": "Lost Mines of Phandelver/Characters/Yeemik.md"
     },
     {
-      "basename": "What the Goblins Know",
-      "path": "Lost Mines of Phandelver/What the Goblins Know.md"
-    },
-    {
       "basename": "Intoduction",
       "path": "Lost Mines of Phandelver/Intoduction.md"
     },
@@ -75,18 +95,6 @@
     {
       "basename": "Cragmaw Tribe",
       "path": "Lost Mines of Phandelver/Groups/Cragmaw Tribe.md"
-    },
-    {
-      "basename": "Cragmaw Castle",
-      "path": "Lost Mines of Phandelver/Locations/Cragmaw Castle.md"
-    },
-    {
-      "basename": "Map of the Adventure",
-      "path": "Lost Mines of Phandelver/Assets/Maps/Map of the Adventure.png"
-    },
-    {
-      "basename": "Player Map",
-      "path": "Lost Mines of Phandelver/Assets/Maps/Player Map.jpg"
     },
     {
       "basename": "Forge of Spells",

@@ -1,4 +1,4 @@
-
+## Description
 - Male Human Warrior, nearly 50yo
 - Pale in complexion, tall in height
 - kindhearted
@@ -25,4 +25,6 @@
 ## In [[Phandalin]]
 - On arrival suggests [[Stonehill Inn]]
 - Sets up at the [[Townmaster's Hall]]
-- [[Quests]]
+- Tells Players he's going to search for [[Cragmaw Castle]]
+- Gives quest [[Groll's Castle]]
+- Might give quest [[Agatha's Zombies]]

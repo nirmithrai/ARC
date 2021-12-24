@@ -8,4 +8,8 @@ eyeing you with curiosity
 - also doubles as a provision store and a tavern
 - [[PCs]] can stay here and eat for free 
 - Nearly every person in town trades here at some time or the other
-- Most likely place to get [[Quests]]
+
+# Quests to find here
+- [[Orc Tor Mine]]
+- [[Agatha's Zombies]]
+- [[Red Glass]]
