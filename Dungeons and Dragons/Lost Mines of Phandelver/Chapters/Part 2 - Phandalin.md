@@ -19,3 +19,5 @@ business as you go by.
 
 # Player Objectives at this point
 - [x] Escort [[Sildar Hallwinter]]
+- [ ] Rescue [[Gundren Rockseeker]]
+	- [ ] Find [[Cragmaw Castle]]
