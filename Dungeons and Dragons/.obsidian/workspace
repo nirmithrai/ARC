@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
-            "mode": "preview"
+            "file": "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "48fb1b49ca285f8b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Phandalin.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
+                "file": "Phandalin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0861880be174495c",
+  "active": "48fb1b49ca285f8b",
   "lastOpenFiles": [
+    "Phandalin.md",
+    "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md",
+    "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md",
     "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
     "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
     "Lionshield Coster.md",
     "Iarno Albrek.md",
-    "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md",
     "Yeemik.md",
     "Lost Mines of Phandelver/What the Goblins Know.md",
-    "Lost Mines of Phandelver/Intoduction.md",
-    "Lords' Alliance.md",
-    "Lost Mines of Phandelver/Locations/Goblin Ambush.md"
+    "Lost Mines of Phandelver/Intoduction.md"
   ]
 }
