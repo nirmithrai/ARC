@@ -18,6 +18,9 @@ business as you go by.
 [[Phandalin]]
 
 # Player Objectives at this point
-- [x] Escort [[Sildar Hallwinter]]
+- [ ] Deliver goods to [[Stonehill Inn]] (50gp)
+- [ ] Escort [[Sildar Hallwinter]] (50gp)
 - [ ] Rescue [[Gundren Rockseeker]]
 	- [ ] Find [[Cragmaw Castle]]
+
+![[Quests#When they Enter Phandalin]]

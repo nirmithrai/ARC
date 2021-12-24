@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Quests",
+      "path": "Quests.md"
+    },
+    {
       "basename": "Part 2 - Phandalin",
       "path": "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md"
     },
     {
-      "basename": "Sildar Hallwinter",
-      "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
-    },
-    {
       "basename": "Phandalin",
       "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
+    },
+    {
+      "basename": "Sildar Hallwinter",
+      "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
     },
     {
       "basename": "Stonehill Inn",

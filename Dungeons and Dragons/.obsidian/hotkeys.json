@@ -115,13 +115,5 @@
       ],
       "key": "ArrowUp"
     }
-  ],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
   ]
 }
