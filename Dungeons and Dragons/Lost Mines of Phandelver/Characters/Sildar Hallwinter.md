@@ -17,3 +17,12 @@
 3. [[Gundren Rockseeker]] had a map of the secret location of the [[Wave Echo Cave]] but goblin confiscated it. Believes both the dwarf and the map were sent to [[King Grol]] in [[Cragmaw Castle]]. Doesn't know where it is.
 4. His contact in [[Phandalin]], [[Iarno Albrek]] disappeared. He's here to investigate it.
 
+## Developments
+- If rescued from the [[Cragmaw Hideout]] will tell [[PCs]] everything he knows
+- Can't help in battle
+- will ask them to escort him to [[Phandalin]] for 50gp reward
+
+## In [[Phandalin]]
+- On arrival suggests [[Stonehill Inn]]
+- Sets up at the [[Townmaster's Hall]]
+- [[Quests]]

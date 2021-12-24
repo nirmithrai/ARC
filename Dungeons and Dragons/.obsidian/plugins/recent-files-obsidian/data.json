@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Phandalin",
-      "path": "Phandalin.md"
+      "basename": "Sildar Hallwinter",
+      "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
     },
     {
       "basename": "Part 2 - Phandalin",
       "path": "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md"
+    },
+    {
+      "basename": "Phandalin",
+      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
+    },
+    {
+      "basename": "Stonehill Inn",
+      "path": "Stonehill Inn.md"
+    },
+    {
+      "basename": "Phandalin Map",
+      "path": "Lost Mines of Phandelver/Assets/Maps/Phandalin Map.png"
+    },
+    {
+      "basename": "Gundren Rockseeker",
+      "path": "Lost Mines of Phandelver/Characters/Gundren Rockseeker.md"
+    },
+    {
+      "basename": "Glassstaff",
+      "path": "Lost Mines of Phandelver/Characters/Glassstaff.md"
+    },
+    {
+      "basename": "Iarno Albrek",
+      "path": "Lost Mines of Phandelver/Characters/Iarno Albrek.md"
     },
     {
       "basename": "Part 1 - Goblin Arrows",
@@ -17,20 +41,12 @@
       "path": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md"
     },
     {
-      "basename": "Sildar Hallwinter",
-      "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
-    },
-    {
       "basename": "Lionshield Coster",
-      "path": "Lionshield Coster.md"
-    },
-    {
-      "basename": "Iarno Albrek",
-      "path": "Iarno Albrek.md"
+      "path": "Lost Mines of Phandelver/Locations/Lionshield Coster.md"
     },
     {
       "basename": "Yeemik",
-      "path": "Yeemik.md"
+      "path": "Lost Mines of Phandelver/Characters/Yeemik.md"
     },
     {
       "basename": "What the Goblins Know",
@@ -42,7 +58,7 @@
     },
     {
       "basename": "Lords' Alliance",
-      "path": "Lords' Alliance.md"
+      "path": "Lost Mines of Phandelver/Groups/Lords' Alliance.md"
     },
     {
       "basename": "Goblin Ambush",
@@ -67,10 +83,6 @@
     {
       "basename": "Player Map",
       "path": "Lost Mines of Phandelver/Assets/Maps/Player Map.jpg"
-    },
-    {
-      "basename": "Gundren Rockseeker",
-      "path": "Lost Mines of Phandelver/Characters/Gundren Rockseeker.md"
     },
     {
       "basename": "Forge of Spells",

@@ -4,7 +4,7 @@
 - Knows the location of the [[Wave Echo Cave]]
 
 # Goals
-- Hire some adventurers to deliver a wagon full of supplies to [[Barthen’s Provisions]] in [[Phandalin]]
+- Hire some adventurers to deliver a wagon full of supplies to [[Stonehill Inn]] in [[Phandalin]]
 
 
 # Developments

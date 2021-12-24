@@ -15,12 +15,34 @@
         }
       },
       {
-        "id": "48fb1b49ca285f8b",
+        "id": "b0a41090c3ebc526",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Phandalin.md",
+            "file": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e922bdf3d1094e9a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lost Mines of Phandelver/Locations/Phandalin.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3a030631cda669ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stonehill Inn.md",
             "mode": "source"
           }
         }
@@ -95,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phandalin.md",
+                "file": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48fb1b49ca285f8b",
+  "active": "b0a41090c3ebc526",
   "lastOpenFiles": [
-    "Phandalin.md",
-    "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md",
-    "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md",
-    "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
     "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
-    "Lionshield Coster.md",
-    "Iarno Albrek.md",
-    "Yeemik.md",
-    "Lost Mines of Phandelver/What the Goblins Know.md",
-    "Lost Mines of Phandelver/Intoduction.md"
+    "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md",
+    "Lost Mines of Phandelver/Locations/Phandalin.md",
+    "Stonehill Inn.md",
+    "Lost Mines of Phandelver/Assets/Maps/Phandalin Map.png",
+    "Lost Mines of Phandelver/Characters/Gundren Rockseeker.md",
+    "Lost Mines of Phandelver/Characters/Glassstaff.md",
+    "Lost Mines of Phandelver/Characters/Iarno Albrek.md",
+    "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md",
+    "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md"
   ]
 }

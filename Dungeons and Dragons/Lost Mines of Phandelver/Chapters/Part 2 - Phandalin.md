@@ -16,3 +16,6 @@ business as you go by.
 
 # The Town
 [[Phandalin]]
+
+# Player Objectives at this point
+- [x] Escort [[Sildar Hallwinter]]

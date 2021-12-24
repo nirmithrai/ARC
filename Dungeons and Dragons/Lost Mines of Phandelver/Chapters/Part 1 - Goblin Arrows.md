@@ -16,7 +16,7 @@ along the Triboar Trail. You’ve encountered no trouble so far,
 but this territory can be dangerous. Bandits and outlaws have
 been known to lurk along the trail
 
-The [[PCs]] start in [[Neverwinter]] where they meet [[Gundren Rockseeker]] and [[Sildar Hallwinter]]. They are tasked with escorting a supply wagon to [[Barthen’s Provisions]] in [[Phandalin]].
+The [[PCs]] start in [[Neverwinter]] where they meet [[Gundren Rockseeker]] and [[Sildar Hallwinter]]. They are tasked with escorting a supply wagon to [[Stonehill Inn]] in [[Phandalin]].
 
 ![[Player Map.jpg]]
 
