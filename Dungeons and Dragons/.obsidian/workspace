@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
+                "file": "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,10 +163,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1184373c6b7d6b76",
+  "active": "4e7a142ebe6001b7",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
     "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md",
+    "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
     "Quests.md",
     "Where in the world is Iarno.md",
     "Lost Mines of Phandelver/Locations/Phandalin.md",
