@@ -5,6 +5,10 @@
       "path": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md"
     },
     {
+      "basename": "Klarg",
+      "path": "Lost Mines of Phandelver/Characters/Klarg.md"
+    },
+    {
       "basename": "Session Notes",
       "path": "Session Notes.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Goblin Ambush",
       "path": "Lost Mines of Phandelver/Locations/Goblin Ambush.md"
-    },
-    {
-      "basename": "Klarg",
-      "path": "Lost Mines of Phandelver/Characters/Klarg.md"
     },
     {
       "basename": "Cragmaw Tribe",

@@ -6,4 +6,4 @@
 - then tricked the goblins to trigger the second wave
 
 # 30/1
-- 
+- thorein used action surge

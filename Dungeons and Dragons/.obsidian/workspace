@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "98ce5c824512707f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lost Mines of Phandelver/Characters/Klarg.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "552d59ca98ac3fa1",
         "type": "leaf",
         "state": {
@@ -130,6 +142,7 @@
   "active": "1184373c6b7d6b76",
   "lastOpenFiles": [
     "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
+    "Lost Mines of Phandelver/Characters/Klarg.md",
     "Session Notes.md",
     "Untitled.md",
     "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
@@ -137,7 +150,6 @@
     "Where in the world is Iarno.md",
     "Lost Mines of Phandelver/Locations/Phandalin.md",
     "Quests.md",
-    "Stonehill Inn.md",
-    "Bart Stonehill.md"
+    "Stonehill Inn.md"
   ]
 }
