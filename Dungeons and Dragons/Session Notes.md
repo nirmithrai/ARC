@@ -15,4 +15,5 @@
 A: statue, 110 sp, 200cp
 T: potion, 200cp
 G: potion, 200cp
+- Long rest
 - 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
+            "file": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
             "mode": "preview",
             "source": false
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/Characters/Klarg.md",
+                "file": "Lost Mines of Phandelver/Locations/Phandalin.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c106088c3c56d82",
+  "active": "98ce5c824512707f",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/Characters/Klarg.md",
     "Lost Mines of Phandelver/Locations/Phandalin.md",
     "Session Notes.md",
+    "Lost Mines of Phandelver/Characters/Klarg.md",
+    "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
     "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
     "Lost Mines of Phandelver/Locations/Lionshield Coster.md",
     "Untitled.md",
-    "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
     "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md",
     "Where in the world is Iarno.md",
     "Quests.md"
