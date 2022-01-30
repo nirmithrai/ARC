@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/Locations/Phandalin.md",
+                "file": "Session Notes.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,10 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98ce5c824512707f",
+  "active": "552d59ca98ac3fa1",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/Locations/Phandalin.md",
     "Session Notes.md",
+    "Lost Mines of Phandelver/Locations/Phandalin.md",
     "Lost Mines of Phandelver/Characters/Klarg.md",
     "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
     "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
