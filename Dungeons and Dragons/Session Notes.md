@@ -11,4 +11,8 @@
 - ashborne daunting roar
 - A: potion of healing
 - T: potion of healing
+- treasure split
+A: statue, 110 sp, 200cp
+T: potion, 200cp
+G: potion, 200cp
 - 
