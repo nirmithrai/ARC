@@ -8,4 +8,7 @@
 # 30/1
 - thorein used action surge
 - grid second wind
+- ashborne daunting roar
+- A: potion of healing
+- T: potion of healing
 - 
