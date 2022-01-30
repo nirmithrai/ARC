@@ -7,3 +7,5 @@
 
 # 30/1
 - thorein used action surge
+- grid second wind
+- 
