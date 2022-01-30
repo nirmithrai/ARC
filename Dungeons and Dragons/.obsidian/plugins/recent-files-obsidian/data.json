@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Part 2 - Phandalin",
-      "path": "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md"
+      "basename": "Cragmaw Hideout",
+      "path": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md"
+    },
+    {
+      "basename": "Session Notes",
+      "path": "Session Notes.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "Sildar Hallwinter",
       "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
     },
     {
-      "basename": "Quests",
-      "path": "Quests.md"
+      "basename": "Part 2 - Phandalin",
+      "path": "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md"
     },
     {
       "basename": "Where in the world is Iarno",
@@ -19,6 +27,10 @@
     {
       "basename": "Phandalin",
       "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
+    },
+    {
+      "basename": "Quests",
+      "path": "Quests.md"
     },
     {
       "basename": "Stonehill Inn",
@@ -83,10 +95,6 @@
     {
       "basename": "Part 1 - Goblin Arrows",
       "path": "Lost Mines of Phandelver/Chapters/Part 1 - Goblin Arrows.md"
-    },
-    {
-      "basename": "Cragmaw Hideout",
-      "path": "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md"
     },
     {
       "basename": "Lionshield Coster",
@@ -191,14 +199,6 @@
     {
       "basename": "Piggybacking in Game Design",
       "path": "Piggybacking in Game Design.md"
-    },
-    {
-      "basename": "Power of Simple Ideas in Zettlekasten",
-      "path": "Power of Simple Ideas in Zettlekasten.md"
-    },
-    {
-      "basename": "Power of Simple Rules",
-      "path": "Power of Simple Rules.md"
     }
   ],
   "omittedPaths": [],
