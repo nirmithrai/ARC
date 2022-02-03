@@ -1,36 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Where in the world is Iarno",
-      "path": "Lost Mines of Phandelver/Quests/Where in the world is Iarno.md"
+      "basename": "Linene Graywind",
+      "path": "Linene Graywind.md"
     },
     {
-      "basename": "Elmar Barthen",
-      "path": "Elmar Barthen.md"
+      "basename": "Phandalin",
+      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
     },
     {
-      "basename": "Orc Tor Mine",
-      "path": "Lost Mines of Phandelver/Quests/Orc Tor Mine.md"
-    },
-    {
-      "basename": "Daran Edermath",
-      "path": "Lost Mines of Phandelver/Characters/Daran Edermath.md"
-    },
-    {
-      "basename": "Vhalak",
-      "path": "Lost Mines of Phandelver/Characters/Vhalak.md"
-    },
-    {
-      "basename": "Miner's Exchange",
-      "path": "Lost Mines of Phandelver/Groups/Miner's Exchange.md"
-    },
-    {
-      "basename": "Session Notes",
-      "path": "Session Notes.md"
-    },
-    {
-      "basename": "Elsa Brown",
-      "path": "Lost Mines of Phandelver/Characters/Elsa Brown.md"
+      "basename": "Stonehill Inn",
+      "path": "Lost Mines of Phandelver/Locations/Stonehill Inn.md"
     },
     {
       "basename": "Quests",
@@ -41,8 +21,36 @@
       "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
     },
     {
-      "basename": "Stonehill Inn",
-      "path": "Lost Mines of Phandelver/Locations/Stonehill Inn.md"
+      "basename": "Miner's Exchange",
+      "path": "Lost Mines of Phandelver/Groups/Miner's Exchange.md"
+    },
+    {
+      "basename": "Orc Tor Mine",
+      "path": "Lost Mines of Phandelver/Quests/Orc Tor Mine.md"
+    },
+    {
+      "basename": "Where in the world is Iarno",
+      "path": "Lost Mines of Phandelver/Quests/Where in the world is Iarno.md"
+    },
+    {
+      "basename": "Elmar Barthen",
+      "path": "Elmar Barthen.md"
+    },
+    {
+      "basename": "Daran Edermath",
+      "path": "Lost Mines of Phandelver/Characters/Daran Edermath.md"
+    },
+    {
+      "basename": "Vhalak",
+      "path": "Lost Mines of Phandelver/Characters/Vhalak.md"
+    },
+    {
+      "basename": "Session Notes",
+      "path": "Session Notes.md"
+    },
+    {
+      "basename": "Elsa Brown",
+      "path": "Lost Mines of Phandelver/Characters/Elsa Brown.md"
     },
     {
       "basename": "Orland Orcs",
@@ -59,10 +67,6 @@
     {
       "basename": "Klarg",
       "path": "Lost Mines of Phandelver/Characters/Klarg.md"
-    },
-    {
-      "basename": "Phandalin",
-      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
     },
     {
       "basename": "Cragmaw Hideout",
@@ -195,10 +199,6 @@
     {
       "basename": "Different types of Notes",
       "path": "Different types of Notes.md"
-    },
-    {
-      "basename": "How does Zettelkasten work",
-      "path": "How does Zettelkasten work.md"
     }
   ],
   "omittedPaths": [],

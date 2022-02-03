@@ -1,0 +1,3 @@
+- Runs the [[Lionshield Coster]]
+- Rewards the [[PCs]] with 100 gp for returning her supplies, 50 gp for telling her the location
+- Nice, 

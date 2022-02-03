@@ -18,7 +18,8 @@
 - [[Lionshield Coster]] - [[Linene Graywind]]
 - [[Shrine of Luck]] - [[Sister Garaele]]
 - [[Tresendar Manor]] - [[Iarno Albrek]]
-- [[Townmaster's Hall]] - [[Harbin Wester]] [[Sildar Hallwinter]]
+- [[Townmaster's Hall]] - [[Harbin Wester]],  [[Sildar Hallwinter]]
+- [[Barthen's Provisions]] - [[Elmar Barthen]] / [[Vhalak]] 
 
 # Map
 ![[Phandalin Map.png]]

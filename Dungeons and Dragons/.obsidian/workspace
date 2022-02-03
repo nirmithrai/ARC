@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
+            "file": "Lost Mines of Phandelver/Quests/Quests.md",
             "mode": "preview",
             "source": false
           }
@@ -21,7 +21,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lost Mines of Phandelver/Groups/Miner's Exchange.md",
+            "file": "Lost Mines of Phandelver/Locations/Phandalin.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "97f214fea344512f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linene Graywind.md",
             "mode": "source",
             "source": false
           }
@@ -34,30 +46,6 @@
           "type": "markdown",
           "state": {
             "file": "Lost Mines of Phandelver/Quests/Orc Tor Mine.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "67fb158844d8019a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lost Mines of Phandelver/Quests/Where in the world is Iarno.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6d4797046b2536fb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lost Mines of Phandelver/Groups/Miner's Exchange.md",
             "mode": "source",
             "source": false
           }
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/Quests/Where in the world is Iarno.md",
+                "file": "Linene Graywind.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,19 +161,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "67fb158844d8019a",
+  "active": "97f214fea344512f",
   "lastOpenFiles": [
+    "Linene Graywind.md",
+    "Lost Mines of Phandelver/Locations/Phandalin.md",
+    "Lost Mines of Phandelver/Locations/Stonehill Inn.md",
+    "Lost Mines of Phandelver/Quests/Quests.md",
+    "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
+    "Lost Mines of Phandelver/Groups/Miner's Exchange.md",
+    "Lost Mines of Phandelver/Quests/Orc Tor Mine.md",
     "Lost Mines of Phandelver/Quests/Where in the world is Iarno.md",
     "Elmar Barthen.md",
-    "Lost Mines of Phandelver/Quests/Orc Tor Mine.md",
-    "Lost Mines of Phandelver/Characters/Daran Edermath.md",
-    "Lost Mines of Phandelver/Characters/Vhalak.md",
-    "Lost Mines of Phandelver/Groups/Miner's Exchange.md",
-    "Session Notes.md",
-    "Lost Mines of Phandelver/Characters/Elsa Brown.md",
-    "Lost Mines of Phandelver/Quests/Quests.md",
-    "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
+    "Lost Mines of Phandelver/Characters/Daran Edermath.md"
   ]
 }
