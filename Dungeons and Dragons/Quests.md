@@ -10,7 +10,7 @@ Level up to 4
 - [ ] [[Groll's Castle]]
 
 # When they Rescue [[Gundren Rockseeker]]
-- [ ] [[Thunderous Tree Dragon]]
+- [ ] [[Thunder Tree Dragon]]
 - [ ] 
 # When they Find [[Wave Echo Cave]] location
 Level up to 5

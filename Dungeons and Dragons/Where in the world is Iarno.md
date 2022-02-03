@@ -10,3 +10,4 @@
 # Developments
 - Player's can talk to a variety of NPCs but no will have heard of him.
 - Only a dwarf named [[Elmar Barthen]] has heard the name. But he will only reveal what he knows if you finish [[Orc Tor Mine]] quest
+- 

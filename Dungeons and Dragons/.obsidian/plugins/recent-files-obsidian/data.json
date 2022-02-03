@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Where in the world is Iarno",
+      "path": "Where in the world is Iarno.md"
+    },
+    {
+      "basename": "Elmar Barthen",
+      "path": "Elmar Barthen.md"
+    },
+    {
       "basename": "Orc Tor Mine",
       "path": "Orc Tor Mine.md"
+    },
+    {
+      "basename": "Orland Orcs",
+      "path": "Orland Orcs.md"
+    },
+    {
+      "basename": "Thunder Tree Dragon",
+      "path": "Thunder Tree Dragon.md"
     },
     {
       "basename": "Miner's Exchange",
       "path": "Miner's Exchange.md"
     },
     {
-      "basename": "Where in the world is Iarno",
-      "path": "Where in the world is Iarno.md"
-    },
-    {
       "basename": "Quests",
       "path": "Quests.md"
-    },
-    {
-      "basename": "Elmar Barthen",
-      "path": "Elmar Barthen.md"
     },
     {
       "basename": "Elsa Brown",
@@ -191,14 +199,6 @@
     {
       "basename": "How does Zettelkasten work",
       "path": "How does Zettelkasten work.md"
-    },
-    {
-      "basename": "Niklas Luhmann",
-      "path": "Niklas Luhmann.md"
-    },
-    {
-      "basename": "How to Take Smart Notes",
-      "path": "How to Take Smart Notes.md"
     }
   ],
   "omittedPaths": [],

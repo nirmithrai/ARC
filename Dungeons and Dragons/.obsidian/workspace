@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orc Tor Mine.md",
+                "file": "Where in the world is Iarno.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,17 +186,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9f47f1324f53ce42",
+  "active": "228828e2abf79bf5",
   "lastOpenFiles": [
-    "Orc Tor Mine.md",
-    "Miner's Exchange.md",
     "Where in the world is Iarno.md",
-    "Quests.md",
     "Elmar Barthen.md",
+    "Orc Tor Mine.md",
+    "Orland Orcs.md",
+    "Thunder Tree Dragon.md",
+    "Miner's Exchange.md",
+    "Quests.md",
     "Elsa Brown.md",
     "Untitled 1.md",
-    "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
-    "Session Notes.md",
-    "Lost Mines of Phandelver/Characters/Klarg.md"
+    "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
   ]
 }
