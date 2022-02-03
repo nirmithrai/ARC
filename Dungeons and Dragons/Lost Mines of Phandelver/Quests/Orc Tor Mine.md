@@ -1,7 +1,7 @@
 # Description
 A nearby mine has been taken over by [[Orland Orcs]]. [[PCs]] have to either fight or make a deal with them to get them to leave.
 # Start
-- Upon talking to [[Elmar Barthen]] at either the [[Stonehill Inn]] or [[Miner's Exchange]]
+- Upon talking to [[Daran Edermath]] at either the [[Stonehill Inn]] or [[Miner's Exchange]]
 
 # Objective
 - open the mines back up by

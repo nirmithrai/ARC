@@ -1,5 +1,5 @@
-- Name of the Phandalin's [[Mining Guild]]
-- Headed by [[Elmar Barthen]]
+- Name of the Phandalin's Mining Guild
+- Headed by [[Daran Edermath]]
 - [[Grid]] works as a cartographer there
 - Organizes miners and mining expeditions in the area
 - was promised the map to the [[Wave Echo Cave]] by [[Gundren Rockseeker]]

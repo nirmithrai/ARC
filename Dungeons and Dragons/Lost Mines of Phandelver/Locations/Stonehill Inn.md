@@ -14,9 +14,7 @@ eyeing you with curiosity
 - barmaid called [[Elsa Brown]]
 	![[Elsa Brown#Info she can give]]
 	
-- Sea Elf [[Fumi Sear]]
-	Will come into play in [[Where in the world is Iarno]]
-- Dwarf [[Elmar Barthen]]
+- Dwarf [[Daran Edermath]]
 	Looks to be frustrated. When player's are ready starts [[Orc Tor Mine]]
 - Old Farmer [[Narth]]
 	Just an old dirty farmer playing some cards all alone
