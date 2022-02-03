@@ -16,5 +16,8 @@ A: statue, 110 sp, 200cp
 T: potion, 200cp
 G: potion, 200cp
 - Long rest
-lionshield  - 138gp
 barthen's - 50gp
+lionshield  - 138gp = 100 reward + weapons sold
+
+- [[Ashborne]] helped [[Sildar Hallwinter]] bring Suri to [[Sister Garaele]]
+- [[Grid]] and [[Thorin]] went to negotiate with [[Linene Graywind]] in [[Lionshield Coster]]

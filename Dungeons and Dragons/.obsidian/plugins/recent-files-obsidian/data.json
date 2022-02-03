@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Orc Tor Mine",
+      "path": "Orc Tor Mine.md"
+    },
+    {
+      "basename": "Miner's Exchange",
+      "path": "Miner's Exchange.md"
+    },
+    {
       "basename": "Where in the world is Iarno",
       "path": "Where in the world is Iarno.md"
     },
@@ -9,8 +17,20 @@
       "path": "Quests.md"
     },
     {
-      "basename": "Phandalin",
-      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
+      "basename": "Elmar Barthen",
+      "path": "Elmar Barthen.md"
+    },
+    {
+      "basename": "Elsa Brown",
+      "path": "Elsa Brown.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Sildar Hallwinter",
+      "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
     },
     {
       "basename": "Session Notes",
@@ -21,8 +41,8 @@
       "path": "Lost Mines of Phandelver/Characters/Klarg.md"
     },
     {
-      "basename": "Sildar Hallwinter",
-      "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
+      "basename": "Phandalin",
+      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
     },
     {
       "basename": "Cragmaw Hideout",
@@ -49,24 +69,12 @@
       "path": "Bart Stonehill.md"
     },
     {
-      "basename": "Elsa Brown",
-      "path": "Elsa Brown.md"
-    },
-    {
-      "basename": "Elmar Barthen",
-      "path": "Elmar Barthen.md"
-    },
-    {
       "basename": "Fumi Sear",
       "path": "Fumi Sear.md"
     },
     {
       "basename": "Vhalak",
       "path": "Vhalak.md"
-    },
-    {
-      "basename": "Orc Tor Mine",
-      "path": "Orc Tor Mine.md"
     },
     {
       "basename": "Cragmaw Castle",
@@ -191,14 +199,6 @@
     {
       "basename": "How to Take Smart Notes",
       "path": "How to Take Smart Notes.md"
-    },
-    {
-      "basename": "On Highlighting",
-      "path": "On Highlighting.md"
-    },
-    {
-      "basename": "Piggybacking in Game Design",
-      "path": "Piggybacking in Game Design.md"
     }
   ],
   "omittedPaths": [],

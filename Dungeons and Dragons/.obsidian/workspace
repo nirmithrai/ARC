@@ -16,24 +16,60 @@
         }
       },
       {
-        "id": "4c106088c3c56d82",
+        "id": "c805e764cb340d36",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lost Mines of Phandelver/Characters/Klarg.md",
+            "file": "Quests.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "98ce5c824512707f",
+        "id": "228828e2abf79bf5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Where in the world is Iarno.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9f47f1324f53ce42",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Orc Tor Mine.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6d4797046b2536fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Miner's Exchange.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9b7f2bf4dd5aa9b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Elmar Barthen.md",
             "mode": "source",
             "source": false
           }
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Where in the world is Iarno.md",
+                "file": "Orc Tor Mine.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,20 +184,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "98ce5c824512707f",
+  "active": "9f47f1324f53ce42",
   "lastOpenFiles": [
+    "Orc Tor Mine.md",
+    "Miner's Exchange.md",
     "Where in the world is Iarno.md",
     "Quests.md",
-    "Lost Mines of Phandelver/Locations/Phandalin.md",
-    "Session Notes.md",
-    "Lost Mines of Phandelver/Characters/Klarg.md",
+    "Elmar Barthen.md",
+    "Elsa Brown.md",
+    "Untitled 1.md",
     "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md",
-    "Lost Mines of Phandelver/Locations/Cragmaw Hideout.md",
-    "Lost Mines of Phandelver/Locations/Lionshield Coster.md",
-    "Untitled.md",
-    "Lost Mines of Phandelver/Chapters/Part 2 - Phandalin.md"
+    "Session Notes.md",
+    "Lost Mines of Phandelver/Characters/Klarg.md"
   ]
 }

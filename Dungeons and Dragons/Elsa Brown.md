@@ -1,4 +1,5 @@
 - Human female
+- Barmaid at the [[Stonehill Inn]]
 - talks too much
 - dishes out rumors about town
 
