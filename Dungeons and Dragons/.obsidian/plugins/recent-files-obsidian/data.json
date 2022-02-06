@@ -9,6 +9,10 @@
       "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
     },
     {
+      "basename": "Quests",
+      "path": "Lost Mines of Phandelver/Quests/Quests.md"
+    },
+    {
       "basename": "Daran Edermath",
       "path": "Lost Mines of Phandelver/Characters/Daran Edermath.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Sister Garaele",
       "path": "Sister Garaele.md"
-    },
-    {
-      "basename": "Quests",
-      "path": "Lost Mines of Phandelver/Quests/Quests.md"
     },
     {
       "basename": "Orland Orcs",
