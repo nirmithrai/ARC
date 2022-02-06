@@ -16,6 +16,7 @@
 # Interesting Locations and Associated NPCs
 - [[Stonehill Inn]] - [[Bart Stonehill]]
 - [[Lionshield Coster]] - [[Linene Graywind]]
+- [[Miner's Exchange]] - [[Daran Edermath]] 
 - [[Shrine of Luck]] - [[Sister Garaele]]
 - [[Tresendar Manor]] - [[Iarno Albrek]]
 - [[Townmaster's Hall]] - [[Harbin Wester]],  [[Sildar Hallwinter]]

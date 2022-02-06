@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Phandalin",
+      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
+    },
+    {
       "basename": "Orc Tor Mine",
       "path": "Lost Mines of Phandelver/Quests/Orc Tor Mine.md"
     },
     {
-      "basename": "Orland Orcs",
-      "path": "Lost Mines of Phandelver/Groups/Orland Orcs.md"
+      "basename": "Miner's Exchange",
+      "path": "Lost Mines of Phandelver/Groups/Miner's Exchange.md"
     },
     {
-      "basename": "Phandalin",
-      "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
+      "basename": "Quests",
+      "path": "Lost Mines of Phandelver/Quests/Quests.md"
+    },
+    {
+      "basename": "Orland Orcs",
+      "path": "Lost Mines of Phandelver/Groups/Orland Orcs.md"
     },
     {
       "basename": "Sister Garaele",
@@ -23,10 +31,6 @@
     {
       "basename": "Thunder Tree",
       "path": "Thunder Tree.md"
-    },
-    {
-      "basename": "Quests",
-      "path": "Lost Mines of Phandelver/Quests/Quests.md"
     },
     {
       "basename": "Harbin Wester",
@@ -53,10 +57,6 @@
       "path": "Lost Mines of Phandelver/Characters/Sildar Hallwinter.md"
     },
     {
-      "basename": "Miner's Exchange",
-      "path": "Lost Mines of Phandelver/Groups/Miner's Exchange.md"
-    },
-    {
       "basename": "Where in the world is Iarno",
       "path": "Lost Mines of Phandelver/Quests/Where in the world is Iarno.md"
     },
@@ -81,10 +81,6 @@
       "path": "Lost Mines of Phandelver/Characters/Elsa Brown.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
       "basename": "Klarg",
       "path": "Lost Mines of Phandelver/Characters/Klarg.md"
     },
@@ -95,10 +91,6 @@
     {
       "basename": "Lionshield Coster",
       "path": "Lost Mines of Phandelver/Locations/Lionshield Coster.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Part 2 - Phandalin",

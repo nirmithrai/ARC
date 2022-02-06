@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "04b2cccec33d358a",
+        "id": "4a1cb8dd607ec6f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "04b2cccec33d358a",
+  "active": "4a1cb8dd607ec6f9",
   "lastOpenFiles": [
     "Lost Mines of Phandelver/Quests/Orc Tor Mine.md",
-    "Lost Mines of Phandelver/Groups/Orland Orcs.md",
     "Lost Mines of Phandelver/Locations/Phandalin.md",
+    "Lost Mines of Phandelver/Groups/Miner's Exchange.md",
+    "Lost Mines of Phandelver/Quests/Quests.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Lost Mines of Phandelver/Groups/Orland Orcs.md",
     "Sister Garaele.md",
     "Lost Mines of Phandelver/Characters/Thunder Tree Dragon.md",
-    "Thunder Tree.md",
-    "Lost Mines of Phandelver/Quests/Quests.md",
-    "Harbin Wester.md",
-    "Townmaster's Hall.md",
-    "Tresendar Manor.md"
+    "Thunder Tree.md"
   ]
 }
