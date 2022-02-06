@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Harbin Wester",
-      "path": "Harbin Wester.md"
+      "basename": "Orc Tor Mine",
+      "path": "Lost Mines of Phandelver/Quests/Orc Tor Mine.md"
+    },
+    {
+      "basename": "Orland Orcs",
+      "path": "Lost Mines of Phandelver/Groups/Orland Orcs.md"
     },
     {
       "basename": "Phandalin",
       "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
     },
     {
-      "basename": "Tresendar Manor",
-      "path": "Tresendar Manor.md"
+      "basename": "Sister Garaele",
+      "path": "Sister Garaele.md"
+    },
+    {
+      "basename": "Thunder Tree Dragon",
+      "path": "Lost Mines of Phandelver/Characters/Thunder Tree Dragon.md"
+    },
+    {
+      "basename": "Thunder Tree",
+      "path": "Thunder Tree.md"
     },
     {
       "basename": "Quests",
       "path": "Lost Mines of Phandelver/Quests/Quests.md"
     },
     {
-      "basename": "Orc Tor Mine",
-      "path": "Lost Mines of Phandelver/Quests/Orc Tor Mine.md"
+      "basename": "Harbin Wester",
+      "path": "Harbin Wester.md"
+    },
+    {
+      "basename": "Townmaster's Hall",
+      "path": "Townmaster's Hall.md"
+    },
+    {
+      "basename": "Tresendar Manor",
+      "path": "Tresendar Manor.md"
     },
     {
       "basename": "Linene Graywind",
@@ -59,14 +79,6 @@
     {
       "basename": "Elsa Brown",
       "path": "Lost Mines of Phandelver/Characters/Elsa Brown.md"
-    },
-    {
-      "basename": "Orland Orcs",
-      "path": "Lost Mines of Phandelver/Groups/Orland Orcs.md"
-    },
-    {
-      "basename": "Thunder Tree Dragon",
-      "path": "Lost Mines of Phandelver/Characters/Thunder Tree Dragon.md"
     },
     {
       "basename": "Untitled 1",
@@ -187,18 +199,6 @@
     {
       "basename": "How to Read a Book by Mortimer J. Adler",
       "path": "How to Read a Book by Mortimer J. Adler.md"
-    },
-    {
-      "basename": "Mind Maps",
-      "path": "Mind Maps.md"
-    },
-    {
-      "basename": "Footers",
-      "path": "Footers.md"
-    },
-    {
-      "basename": "Comparison between Notes",
-      "path": "Comparison between Notes.md"
     }
   ],
   "omittedPaths": [],

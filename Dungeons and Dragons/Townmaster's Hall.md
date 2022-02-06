@@ -1,0 +1,4 @@
+- [[Harbin Wester]] works here
+- [[Sildar Hallwinter]] will take residence here after coming to phandalin
+- was burned when the [[Redbrands]] took over town and is now recently rebuilt. 
+- so none of the old records are present here 

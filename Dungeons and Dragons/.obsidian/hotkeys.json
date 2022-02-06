@@ -115,5 +115,22 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "app:toggle-default-new-pane-mode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
   ]
 }
