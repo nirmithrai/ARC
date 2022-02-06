@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Linene Graywind",
-      "path": "Linene Graywind.md"
+      "basename": "Harbin Wester",
+      "path": "Harbin Wester.md"
     },
     {
       "basename": "Phandalin",
       "path": "Lost Mines of Phandelver/Locations/Phandalin.md"
     },
     {
-      "basename": "Stonehill Inn",
-      "path": "Lost Mines of Phandelver/Locations/Stonehill Inn.md"
+      "basename": "Tresendar Manor",
+      "path": "Tresendar Manor.md"
     },
     {
       "basename": "Quests",
       "path": "Lost Mines of Phandelver/Quests/Quests.md"
+    },
+    {
+      "basename": "Orc Tor Mine",
+      "path": "Lost Mines of Phandelver/Quests/Orc Tor Mine.md"
+    },
+    {
+      "basename": "Linene Graywind",
+      "path": "Linene Graywind.md"
+    },
+    {
+      "basename": "Stonehill Inn",
+      "path": "Lost Mines of Phandelver/Locations/Stonehill Inn.md"
     },
     {
       "basename": "Sildar Hallwinter",
@@ -23,10 +35,6 @@
     {
       "basename": "Miner's Exchange",
       "path": "Lost Mines of Phandelver/Groups/Miner's Exchange.md"
-    },
-    {
-      "basename": "Orc Tor Mine",
-      "path": "Lost Mines of Phandelver/Quests/Orc Tor Mine.md"
     },
     {
       "basename": "Where in the world is Iarno",
@@ -191,14 +199,6 @@
     {
       "basename": "Comparison between Notes",
       "path": "Comparison between Notes.md"
-    },
-    {
-      "basename": "Core Ideas of Zettelkasten",
-      "path": "Core Ideas of Zettelkasten.md"
-    },
-    {
-      "basename": "Different types of Notes",
-      "path": "Different types of Notes.md"
     }
   ],
   "omittedPaths": [],

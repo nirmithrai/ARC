@@ -1,0 +1,5 @@
+- the current townmaster of [[Phandalin]]
+- Works at the [[Townmaster's Hall]]
+- Fat, cowardly
+- does not want to stand up to the [[Redbrands]]
+- claims them to be 
