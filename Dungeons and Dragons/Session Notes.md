@@ -12,7 +12,7 @@
 - A: potion of healing
 - T: potion of healing
 - treasure split
-A: statue, 110 sp, 200cp
+A: small Jade Statuette of a frog with tiny golden orbs for eyes (40gp), 110 sp, 200cp
 T: potion, 200cp
 G: potion, 200cp
 - Long rest
@@ -21,3 +21,6 @@ lionshield  - 138gp = 100 reward + weapons sold
 
 - [[Ashborne]] helped [[Sildar Hallwinter]] bring Suri to [[Sister Garaele]]
 - [[Grid]] and [[Thorin]] went to negotiate with [[Linene Graywind]] in [[Lionshield Coster]]
+
+# 06/2
+- 

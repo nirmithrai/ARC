@@ -4,4 +4,4 @@
 - does not want to stand up to the [[Redbrands]]
 - claims them to be useful in protecting the town from monsters
 - claims to have joined fairly recently so doesn't know anything about [[Iarno Albrek]]
-- 
+- Worships Goddess Harpy

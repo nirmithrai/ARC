@@ -1,6 +1,6 @@
 - Human Cleric of the town
 - Can use Greater Restoration once per day
 - sweet looking , soft spoken
-- looks injured\
+- looks injured
 - related to [[Agatha's Zombies]] quest 
 - Reward: Potions of Healing
