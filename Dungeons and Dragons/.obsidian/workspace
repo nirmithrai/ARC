@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/Characters/Daran Edermath.md",
+                "file": "Lost Mines of Phandelver/Quests/Orc Tor Mine.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,16 +175,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a12128d31bb905f1",
+  "active": "4a1cb8dd607ec6f9",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/Characters/Daran Edermath.md",
+    "Lost Mines of Phandelver/Quests/Orc Tor Mine.md",
     "Lost Mines of Phandelver/Locations/Phandalin.md",
-    "Linene Graywind.md",
+    "Lost Mines of Phandelver/Characters/Daran Edermath.md",
     "Lost Mines of Phandelver/Groups/Miner's Exchange.md",
+    "Linene Graywind.md",
     "Harbin Wester.md",
     "Session Notes.md",
     "Sister Garaele.md",
-    "Lost Mines of Phandelver/Quests/Orc Tor Mine.md",
     "Lost Mines of Phandelver/Quests/Quests.md",
     "Untitled.md"
   ]
