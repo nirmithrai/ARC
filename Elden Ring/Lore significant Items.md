@@ -1,0 +1,1 @@
+Flamedrake Talisman. found in Groveside Cave. 
