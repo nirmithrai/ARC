@@ -1,0 +1,1 @@
+Merchants are nomadic people.
