@@ -24,3 +24,5 @@ lionshield  - 138gp = 100 reward + weapons sold
 
 # 06/2
 - negotiated with [[General Grog Thunderjaw]] (30gp) after winning a fight with the orc and winning 100gp.
+- They got a priceless diamond as a reward. which was seen by [[Vhalak]]
+- 

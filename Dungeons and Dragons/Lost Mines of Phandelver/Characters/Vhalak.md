@@ -5,3 +5,5 @@
 - Tries to lure [[PCs]] out of town and murder them 
 - Doesn't like attention being drawn towards him
 - Will run if town's people are alerted to his presence
+
+see's the [[PCs]] get the diamond.
