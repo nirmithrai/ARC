@@ -23,4 +23,4 @@ lionshield  - 138gp = 100 reward + weapons sold
 - [[Grid]] and [[Thorin]] went to negotiate with [[Linene Graywind]] in [[Lionshield Coster]]
 
 # 06/2
-- 
+- negotiated with [[General Grog Thunderjaw]] (30gp) after winning a fight with the orc and winning 100gp.

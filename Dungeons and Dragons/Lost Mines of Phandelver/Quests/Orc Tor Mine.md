@@ -6,7 +6,7 @@ A nearby mine, [[Dragon Tor Mine]] has been taken over by [[Orland Orcs]]. [[PCs
 # Objective
 - open the mines back up by
 	- killing all the orcs
-	- making a deal with the leader [[General Grog]] . Which involves telling them the location of the [[Thunder Tree Dragon]] 
+	- making a deal with the leader [[General Grog Thunderjaw]] . Which involves telling them the location of the [[Thunder Tree Dragon]] 
 # Developments
 - the orcs will ask you to battle their Champion before making a deal.
 - if all orcs are killed, there will be increased Orc fights possibility
