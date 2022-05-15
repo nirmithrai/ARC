@@ -1,1 +1,3 @@
-is  [[Merchant]]
+- is [[Merchant]]
+- recommends you buy a [[Crafting Kit]] 
+- hopes 

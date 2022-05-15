@@ -2,4 +2,5 @@
 - Why did the [[Elden Ring]] Shatter, and what happened in the events that proceeded it
 - Where is [[Queen Marika]]
 - Who are the [[Golden Order]]
-- 
+- Who is [[Varre]] , who's he with? why is he here?
+- Why did the [[Temple in the Sky]] fall?

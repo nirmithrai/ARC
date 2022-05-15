@@ -1,0 +1,1 @@
+Its [[Ruin Fragment]] give off a faint glow from within.
