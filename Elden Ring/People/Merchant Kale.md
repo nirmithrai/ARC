@@ -1,6 +1,7 @@
 - is [[Merchant]]
 - recommends you buy a [[Crafting Kit]] 
 - wants the tarnished to survive. 
+- [[Tarnished]] are most of his customer base
 
 > _But the important thing is that you survive. Every customer counts, after all
 
