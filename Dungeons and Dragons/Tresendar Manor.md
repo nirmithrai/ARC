@@ -1,4 +1,0 @@
-- A large decrepit manor at the top of a hill in [[Phandalin]]
-- secretly the base for the [[Redbrands]] and where [[Glassstaff]] currently hides.
-- the roof has collapsed and an inspection of the stone can reveal that the walls could be caved in if hit hard enough
-- Will be taken over by the [[Thunder Tree Dragon]] during [[The Scouring of Phandalin]]

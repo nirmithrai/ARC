@@ -11,7 +11,7 @@
 - In the last 3 to 4 years settlers have reclaimed 
 - mainly due to the help of the [[Rockseeker Brothers]]
 - a nearby smaller mine is currently the source of business
-- [[Redbrands]] have taken control over the town with the help of [[Iarno Albrek]] aka [[Glassstaff]] 
+- [[Redbrands]] have taken control over the town with the help of [[Iarno Albrek]] aka [[GlassStaff]] 
 
 # Interesting Locations and Associated NPCs
 - [[Stonehill Inn]] - [[Bart Stonehill]]

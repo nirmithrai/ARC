@@ -6,5 +6,5 @@
 ## Developments
 - pays for the goods from [[Part 1 - Goblin Arrows]]
 - can give general advice on who to talk to in town and for what
-- hates the [[Glassstaff]] for what the [[Redbrands]] have become
+- hates the [[GlassStaff]] for what the [[Redbrands]] have become
 - 
