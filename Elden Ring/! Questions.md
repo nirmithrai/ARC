@@ -3,5 +3,7 @@
 - Where is [[Queen Marika]]
 - Who are the [[Golden Order]]
 - Who is [[Varre]] , who's he with? why is he here?
-- Why did the [[Temple in the Sky]] fall?
-- Can a man be a finger maiden? [[Missionary's Cookbook]]
+
+![[Temple in the Sky#Qs]]
+
+![[Missionary's Cookbook#Qs]]
