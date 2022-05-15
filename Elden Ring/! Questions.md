@@ -11,3 +11,5 @@
 ![[Missionary's Cookbook#Qs]]
 
 ![[Erdleaf Flower#Qs]]
+
+![[Root Resin#Qs]]

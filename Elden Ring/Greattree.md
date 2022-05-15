@@ -1,0 +1,3 @@
+- separate from [[Erdtree]]
+- their roots are said to have been linked
+- which is why catacombs are built around their roots
