@@ -18,10 +18,11 @@
 ![[2022-05-18 12-38-38-1 Reshot.mp4_snapshot_01.25.057.jpg]]
 - She offers a deal
 	- Take her to the [[Foot of the Erdtree]]
+	- in return she will aid you by acting as a [[Finger Maidens]]
 
 ### Qs 
 - Is she part of the [[Finger Maidens]]?
   Don't think so. She uses the pronoun "they" instead of "we". Also says she can **play** the role of a Finger Maiden.
 - Is she with the [[Three Fingers]]
 - who are the [[Two Fingers]]
--  
+-  Why do we have to take her there? Can't she just teleport like she did here?
