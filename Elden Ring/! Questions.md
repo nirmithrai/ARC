@@ -17,3 +17,5 @@
 
 - Who is [[Elleh]] and why did they name a chruch after them? [[Church of Elleh]]
 
+![[Melina#Gatefront Ruins Encounter#Qs]]
+

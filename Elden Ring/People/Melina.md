@@ -20,6 +20,12 @@
 	- Take her to the [[Foot of the Erdtree]]
 	- in return she will aid you by acting as a [[Finger Maidens]]
 - Upon accepting she gives us the [[Spectral Steed Whistle]]
+- To turn [[Runes]] to strength, she holds our hands and says
+
+> Share them with me, your thoughts, your ambition, the principles you would follow
+
+
+
 
 ### Qs 
 - Is she part of the [[Finger Maidens]]?
@@ -27,4 +33,4 @@
 - Is she with the [[Three Fingers]]
 - who are the [[Two Fingers]]
 -  Why do we have to take her there? Can't she just teleport like she did here?
-- How can a steed
+- Why did [[Torrent]] choose us?
