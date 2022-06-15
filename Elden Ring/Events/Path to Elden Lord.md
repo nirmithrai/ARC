@@ -9,3 +9,6 @@ Here before they wake up, [[Melina]] and [[Torrent]] show up. She says how a [[T
 After fighting some undead and a couple of [[Godrick's Soldiers]] in the [[Folkhero's Grave]], the tarnished meets [[Varre]]. Who points us to [[Castle Stormveil]] and it's current occupant [[Godrick]]
 
 Exploring the area you can find the [[Church of Elleh]], where [[Merchant Kale]] has set up his shop. 
+
+Near the [[Gatefront Ruins]] the tarnished is greeted by [[Melina]], who gives us a [[Spectral Steed]]
+
