@@ -16,4 +16,12 @@
 - calls us [[Traveller from beyond the fog]]
 - has a tattoo of a claw with 3 fingers over her left eye.
 ![[2022-05-18 12-38-38-1 Reshot.mp4_snapshot_01.25.057.jpg]]
-- 
+- She offers a deal
+	- Take her to the [[Foot of the Erdtree]]
+
+### Qs 
+- Is she part of the [[Finger Maidens]]?
+  Don't think so. She uses the pronoun "they" instead of "we". Also says she can **play** the role of a Finger Maiden.
+- Is she with the [[Three Fingers]]
+- who are the [[Two Fingers]]
+-  
