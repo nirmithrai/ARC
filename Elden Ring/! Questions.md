@@ -13,3 +13,5 @@
 ![[Erdleaf Flower#Qs]]
 
 ![[Root Resin#Qs]]
+
+- Who is [[Elleh]] and why did they name a chruch after them? [[Church of Elleh]]

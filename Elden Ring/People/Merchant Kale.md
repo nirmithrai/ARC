@@ -1,4 +1,4 @@
-- is [[Merchant]]
+- is [[Merchant]] at the [[Church of Elleh]]
 - recommends you buy a [[Crafting Kit]] 
 - wants the tarnished to survive. 
 - [[Tarnished]] are most of his customer base

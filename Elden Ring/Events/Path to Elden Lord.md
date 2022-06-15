@@ -6,4 +6,6 @@ Upon exiting the chamber, the [[Player Character]] is attacked and defeated by a
 
 Here before they wake up, [[Melina]] and [[Torrent]] show up. She says how a [[Tarnished]] will seek the [[Elden Ring]] even if it violates the [[Golden Order]]
 
+After fighting some undead and a couple of [[Godrick's Soldiers]] in the [[Folkhero's Grave]], the tarnished meets [[Varre]]. Who points us to [[Castle Stormveil]] and it's current occupant [[Godrick]]
 
+Exploring the area you can find the [[Church of Elleh]], where [[Merchant Kale]] has set up his shop. 
