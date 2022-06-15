@@ -10,5 +10,5 @@ After fighting some undead and a couple of [[Godrick's Soldiers]] in the [[Folkh
 
 Exploring the area you can find the [[Church of Elleh]], where [[Merchant Kale]] has set up his shop. 
 
-Near the [[Gatefront Ruins]] the tarnished is greeted by [[Melina]], who gives us a [[Spectral Steed]]
+Near the [[Gatefront Ruins]] the tarnished is greeted by [[Melina]], who gives us a [[Spectral Steed Whistle]]
 
