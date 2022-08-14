@@ -12,10 +12,14 @@
 - Mentions seeing the tarnished riding [[Torrent]]
 - Gives the tarnised a [[Spirit Calling Bell]]
 - Says [[Torrent's Former Master]] entrusted this to [[Witch Renna]] to give to the tarnished.
-- 
+- Says we might not meet again, but advises us to learn the [[Lands Between]]
+
+> How long will it be, I wonder...
+> Before the [[Tarnished]] tire of obeisance to the [[Two Fingers]]
+
 
 
 
 ### Qs 
 - Why did [[Torrent's Former Master]] give the [[Spirit Calling Bell]] to [[Witch Renna]], but [[Torrent]] itself ended up with [[Melina]]
-- 
+- What do the [[Two Fingers]] have to do with the [[Tarnished]]? [[Witch Renna]] implies [[Tarnished]] obey the [[Two Fingers]] but suggests they will grow tired of it.
