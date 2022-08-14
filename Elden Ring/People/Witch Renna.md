@@ -5,8 +5,17 @@
 
 ![[ring 45.jpg]]
 
+- is a [[Witch]]
 - has 4 arms
 - has a phantom face within her face
 - white hat with blue glowing viens? reminds me of the underground place
 - Mentions seeing the tarnished riding [[Torrent]]
 - Gives the tarnised a [[Spirit Calling Bell]]
+- Says [[Torrent's Former Master]] entrusted this to [[Witch Renna]] to give to the tarnished.
+- 
+
+
+
+### Qs 
+- Why did [[Torrent's Former Master]] give the [[Spirit Calling Bell]] to [[Witch Renna]], but [[Torrent]] itself ended up with [[Melina]]
+- 

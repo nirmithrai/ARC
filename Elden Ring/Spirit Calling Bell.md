@@ -1,3 +1,3 @@
 - Allows one to summon spirits from the past to help you fight certain enemies in certain places
 - Given to us by [[Witch Renna]]
-- [[Torrent's Former Master]] entrusted this to [[Witch Renna]] to give to the tarni
+ > Tis a bell for calling forth s

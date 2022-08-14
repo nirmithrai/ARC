@@ -19,3 +19,6 @@
 
 ![[Melina#Gatefront Ruins Encounter#Qs]]
 
+
+![[Witch Renna#Qs]]
+
