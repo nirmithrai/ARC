@@ -9,4 +9,6 @@
 
 >_The land has been tainted by madness since the shattering of the Elden Ring_
 - talks about the [[Shattering of the Elden Ring]]
-- 
+
+
+- Talks about other [[Merchants]]

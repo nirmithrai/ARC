@@ -12,4 +12,4 @@ Exploring the area you can find the [[Church of Elleh]], where [[Merchant Kale]]
 
 Near the [[Gatefront Ruins]] the tarnished is greeted by [[Melina]], who gives us a [[Spectral Steed Whistle]]
 
-After exploring the nearby [[Gatefront Ruins]], we [[teleport]] back to [[Church of Elleh]]. Where we meet the [[Witch Renna]]
+After exploring the nearby [[Gatefront Ruins]], we [[teleport]] back to [[Church of Elleh]]. Where we meet the [[Witch Renna]], then catch up with [[Merchant Kale]] 
