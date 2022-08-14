@@ -1,4 +1,4 @@
-## First Encounter
+# First Encounter
 - is first seen in the [[Folkhero's Grave]] 
 - is with [[Torrent]]
 - possibly gives the [[Player Character]] the flasks and thus saving their life
