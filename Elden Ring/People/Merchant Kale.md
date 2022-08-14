@@ -1,3 +1,4 @@
+![[RIng 2 2.jpg]]
 - is [[Merchants]] at the [[Church of Elleh]]
 - recommends you buy a [[Crafting Kit]] 
 - wants the tarnished to survive. 
@@ -10,5 +11,5 @@
 >_The land has been tainted by madness since the shattering of the Elden Ring_
 - talks about the [[Shattering of the Elden Ring]]
 
-
-- Talks about other [[Merchants]]
+- Talks about [[Merchants]] lore
+- 
