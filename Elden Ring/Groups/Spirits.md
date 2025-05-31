@@ -1,2 +1,0 @@
-- Spirits are as [[Summon]]ed from [[Ash unreturned to the Erdtree]]
-- They recall past battles when summoned and thus lets you contol them

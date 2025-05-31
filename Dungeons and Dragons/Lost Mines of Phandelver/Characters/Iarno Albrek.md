@@ -1,8 +1,0 @@
-- Human Wizard
-- member of the [[Lords' Alliance]]
-- traveled to [[Phandalin]] 2 months ago
-- is said to have disappeared shortly after arriving.
-- was [[Sildar Hallwinter]]'s contact in [[Phandalin]]
-- Now controls the [[Redbrands]] and goes by the name [[GlassStaff]]
-
-![[GlassStaff]]

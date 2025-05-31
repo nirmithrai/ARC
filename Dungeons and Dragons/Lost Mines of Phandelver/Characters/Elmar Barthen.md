@@ -1,3 +1,0 @@
-- Run the [[Barthen's Provisions]]
-- is actually [[Vhalak]] in disguise
-- Pays [[PCs]] less than what was promised arousing suspicion

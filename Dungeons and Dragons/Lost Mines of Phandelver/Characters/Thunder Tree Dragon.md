@@ -1,2 +1,0 @@
-- Dragon occupying [[Thunder Tree]]
-- Stole a priceless relic from the [[Orland Orcs]]

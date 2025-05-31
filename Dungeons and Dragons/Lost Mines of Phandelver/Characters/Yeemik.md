@@ -1,3 +1,0 @@
-- Second in command to the hideout
-- Wants to oust [[Klarg]] and become the new boss.
-- Sleazy and isn't to be trusted

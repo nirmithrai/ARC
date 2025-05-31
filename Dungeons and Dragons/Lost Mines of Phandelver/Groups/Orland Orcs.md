@@ -1,7 +1,0 @@
-- A group of Orcs that are looking for a lost relic of theirs. 
-- It was stolen by a Green Dragon [[Thunder Tree Dragon]]
-- Leader [[General Grog Thunderjaw]] and 4 other orcs
-- taken over the [[Dragon Tor Mine]] as a base of operations
-- Can be persuaded to leave by giving the location of the Dragon, [[Thunder Tree]]
-- Will move to near [[Thunder Tree]] if given location.
-- Will help in [[The Scouring of Phandalin]] if relic is returned to them

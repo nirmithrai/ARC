@@ -1,4 +1,0 @@
-- is a [[Spectral Steed]]
-- Called by the [[Spectral Steed Whistle]]
-- had a former master. see [[Torrent's Former Master]]
-- is said to choose it's own master

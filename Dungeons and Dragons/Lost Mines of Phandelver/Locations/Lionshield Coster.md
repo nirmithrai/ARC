@@ -1,1 +1,0 @@
-- a merchant company with a warehouse and trading post in [[Phandalin]] 
