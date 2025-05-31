@@ -8,8 +8,9 @@
 ### Qs
 - Who/what is the [[Golden Order]]
 - why does seeking the [[Elden Ring]] violate it
-- what are the consequences for violating it?
-- Who are the The [[Tarnished]] ? 
+- what are the concequences for violating it?
+- Who are "her kind"?
+  The [[Tarnished]]
 
 # [[Gatefront Ruins]] Encounter
 - calls us [[Traveller from beyond the fog]]
