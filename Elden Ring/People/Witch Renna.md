@@ -10,7 +10,7 @@
 - has a phantom face within her face
 - white hat with blue glowing viens? reminds me of the underground place
 - Mentions seeing the tarnished riding [[Torrent]]
-- Gives the tarnised a [[Spirit Calling Bell]]
+- Gives the tarnished a [[Spirit Calling Bell]]
 - Says [[Torrent's Former Master]] entrusted this to [[Witch Renna]] to give to the tarnished.
 - Says we might not meet again, but advises us to learn the [[Lands Between]]
 
