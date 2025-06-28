@@ -15,6 +15,6 @@ With the help of this technique Luhmann achieved a lot in the world of academic 
 
 ---
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

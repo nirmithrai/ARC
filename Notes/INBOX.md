@@ -15,3 +15,7 @@ The advantage games have over other mediums is that it can make you experience t
 
 ---
 
+
+A game which has 2 sets of mission objectives. You get to decide which one you want to do. One is good and one is evil. 
+
+#game_idea 

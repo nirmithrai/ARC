@@ -14,6 +14,6 @@ Only need 4 tools, "More is unnecessary, less is impossible"
 	>No Editor can improve an argument.
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

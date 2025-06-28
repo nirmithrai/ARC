@@ -7,6 +7,6 @@ This structure will turn into your Table of content that you can refer to know w
 Then its just a matter of sorting the notes according to the structure and then rewriting it to make it flow better.
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

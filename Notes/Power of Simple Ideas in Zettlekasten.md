@@ -16,6 +16,6 @@ Even inside the slipbox this philosophy prevails.
 [[Power of Simple Rules]]
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

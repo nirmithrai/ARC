@@ -10,6 +10,6 @@ Main purpose of **literature notes** is that you don't have to read the book eve
 **Literature notes** and **Main Notes** are permanent. **Fleeting notes** can be discarded after processing.
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

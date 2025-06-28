@@ -4,9 +4,9 @@
 4.  **Floating Attention**. The kind of attention that enables creativity
 
 
-Source: [[How to Take Smart Notes]]
+Source: [[Book - How to Take Smart Notes]]
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

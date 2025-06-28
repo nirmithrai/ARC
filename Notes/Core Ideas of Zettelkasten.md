@@ -3,6 +3,6 @@ On the most basic level it is a box of notes, which is arranged in an abstract w
 [[Power of Simple Ideas in Zettlekasten]]
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

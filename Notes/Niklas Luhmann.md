@@ -22,6 +22,6 @@ In 30 years he published 58 books and hundreds of articles. Even after his death
 > If I want something, it's more time. The only thing that really is a nuisance is a lack of time
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten #people

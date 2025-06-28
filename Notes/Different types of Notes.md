@@ -13,6 +13,6 @@ Notes picked from Main Notes for a given project. Can be archived or trashed aft
 [[On Highlighting]]
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

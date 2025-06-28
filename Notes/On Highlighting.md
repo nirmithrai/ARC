@@ -3,6 +3,6 @@ Highlighting is a form of **Fleeting Notes** but it also serves as a reference t
 Highlighting is useful when you want to go through the book again. It will guide your eyes to the important parts.
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

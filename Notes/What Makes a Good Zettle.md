@@ -11,6 +11,6 @@ A Main Note has to be
 -   Sourced Know where the information came from.
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten

@@ -1,7 +1,7 @@
 ## Zettelkasten
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
 #zettelkasten
 

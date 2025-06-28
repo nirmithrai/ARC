@@ -19,6 +19,6 @@ This book talks about effective note taking by the use of Slip Boxes.
 [Notion Link](https://www.notion.so/How-to-Take-Smart-Notes-2240e8de91b94ef0938db18846d6009b)
 
 #### Source
-[[How to Take Smart Notes]]
+[[Book - How to Take Smart Notes]]
 
-#zettelkasten #book
+#zettelkasten #book_notes 
