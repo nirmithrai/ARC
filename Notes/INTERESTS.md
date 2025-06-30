@@ -1,3 +1,4 @@
+# Present
 [[Pixel Art]]
 [[Music Production]] 
 [[Story Writing]] 
@@ -9,3 +10,6 @@
 [[Person Finance]] 
 [[Investing]]
 [[Advertising]] 
+[[Cinematography]]
+[[Programming]]
+

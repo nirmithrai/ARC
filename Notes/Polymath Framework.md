@@ -1,5 +1,10 @@
 This should be one of the first things i figure out. I don't want to keep resetting progress everytime.
 
+# questions??
+How do I save my progress?
+How do I continue?
+What does a minimal version of the framework look like for micro interest? Eg. Install arch on my work laptop.
+Will i need to do any maintenance on the obsidian page?
 # major points
 
 1. avoid progress resetting
@@ -127,3 +132,21 @@ Task6
 
 In this example, task 1, 2 and 3 can be done in any order, and task 4 and 5 can be done in any order, 1, 2 and 3 to be finished before 4 and 5 can be started. And 6 needs 4 and 5 to be finished. 
 It's not perfect, blockers are never as linear as this example, but the idea is to just group together tasks that can be done in any order. Maybe task 5 is only blocked by task3 and once 3 is done, it can move up to the first group.
+
+
+# Levels
+Have different levels to it and I have to complete an exam to graduate to the next level. So I can maybe research "what does it take to be an intermediate or expert in this field?". Then I can set myself an exam or a criteria or a task I have to complete to finish that level.
+
+Level 0 is Understanding the interest.
+What it is, jargon, tools, philosophies 
+Who's who in the field. Learn from the best
+Collect Resources 
+Set the path towards mastery. What are the levels? What are the exams? What is the end goal?
+What do I do if I get stuck?
+What are some good and bad habits?
+Hype stage. What made me get into it? How can I reinvigorate my want to continue?
+When does level 0 end??
+
+# Present
+[[Test]]
+[[Another teat]]
