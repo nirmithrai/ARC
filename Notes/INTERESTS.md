@@ -1,4 +1,8 @@
 # Present
+[[Polymath]]
+
+
+# Future 
 [[Pixel Art]]
 [[Music Production]] 
 [[Story Writing]] 
