@@ -1,9 +1,3 @@
----
-type: interest
-status: active
-tools: []
-mental_load: 0
----
 # Basics
 What is {{title}}?
 

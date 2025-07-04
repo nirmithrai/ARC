@@ -1,21 +1,19 @@
----
-type: interest
-status: active
-tools: 
-mental_load: 0
----
+
 # Basics
 Art done by drawing individual Pixels
 
 # Goal
 Make good game art assets very fast.
+Develop a style.
 
 ---
 # Past
 Started a new interest!
 
 # Present
-[[Level 0 - Pixel Art]]
+# [[Level 0 - Pixel Art]]
+
+
 
 
 # Future
@@ -23,3 +21,24 @@ Started a new interest!
 - [ ] Fill in the basics
 [[Hype - Pixel Art]]
 [[Resources - Pixel Art]]
+
+# [[Level 1 - Pixel Art]]
+
+# [[Level 2 - Pixel Art]]
+
+# [[Level 3 - Pixel Art]]
+
+# [[Level 4 - Pixel Art]]
+
+# [[Level 5 - Pixel Art]]
+
+# [[Level 6 - Pixel Art]]
+
+# [[Level 7 - Pixel Art]]
+
+# [[Level 8 - Pixel Art]]
+
+# [[Level 9 - Pixel Art]]
+
+# [[Level 10 - Pixel Art]]
+

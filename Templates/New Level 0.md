@@ -1,8 +1,3 @@
----
-type: level
-continue: false
-time_block: 0
----
 Level 0 is for understanding the interest.
 
 # What it is?

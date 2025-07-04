@@ -1,10 +1,3 @@
----
-type: level
-tool: 
-mental_load: 0
-continue: false
-time_block: 0
----
 # Level ?: Title
 ## Goal
 

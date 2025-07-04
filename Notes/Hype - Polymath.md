@@ -1,3 +1,8 @@
+
+
+
+![](https://youtu.be/owaQUui_uWo?si=Kevn8RbyU9rKA89w)
+
 ![How to become a Polymath](https://youtu.be/1reaW17WD-8?si=0PDodx eBJW_Jv84Y)
 
 ![](https://youtu.be/kEk-BDckjW4?si=ueNJY9nnJn6VeS_y)

@@ -1,9 +1,9 @@
 # Present
 [[Polymath]]
+[[Pixel Art]]
 
 
 # Future 
-[[Pixel Art]]
 [[Music Production]] 
 [[Digital Artist]]  
 [[Story Writing]] 
