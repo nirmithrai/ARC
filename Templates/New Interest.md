@@ -5,9 +5,13 @@ tools: []
 mental_load: 0
 ---
 # Basics
+What is {{title}}?
 
+[[Hype - {{title}}]]
+[[Resources - {{title}}]]
 
 # Goal
+Why pursue {{title}}?
 
 
 ---
@@ -19,7 +23,7 @@ Started a new interest!
 
 
 # Future
-%% Move these to Basics Section %%
 - [ ] Fill in the basics
-[[Hype - {{title}}]]
-[[Resources - {{title}}]]
+	- [ ] at least 1 hype
+	- [ ] at least 1 resource 
+- [ ] Finish Level 0

@@ -1,13 +1,25 @@
 ---
 type: interest
-status: active    # or paused / dormant
+status: active
+tools: 
+mental_load: 0
 ---
+# Basics
+Art done by drawing individual Pixels
 
-# Pixel Art       
+# Goal
+Make good game art assets very fast.
 
-## Road-map
-Link to or embed your evolving ToC here.
+---
+# Past
+Started a new interest!
 
 # Present
-[[Pixel Art – Core Concepts]]
-- [ ] [[Another teat]]
+[[Level 0 - Pixel Art]]
+
+
+# Future
+%% Move these to Basics Section %%
+- [ ] Fill in the basics
+[[Hype - Pixel Art]]
+[[Resources - Pixel Art]]

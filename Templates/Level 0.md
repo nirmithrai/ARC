@@ -12,7 +12,7 @@ Level 0 is for understanding the interest.
 Action? Learning? 
 
 
-# Why is of interest to me?
+# Why is it of interest to me?
 
 
 # Jargon
@@ -29,7 +29,12 @@ Action? Learning?
 
 # Resources 
 Move findings to resources page. 
-
+Books
+YouTube channels 
+ChatGPT
+Subreddits
+Google
+Courses 
 
 # Levels
 Set the path towards mastery. 
@@ -38,10 +43,15 @@ What are the exams?
 What is the end goal?
 
 
+# Do's and Don'ts?
+
+
+# Hype
+How do you hype yourself up for this activity?
+
+
+
 # Stuck?
 [[Polymath Help]]
-
-
-# Good and Bad?
 
 
