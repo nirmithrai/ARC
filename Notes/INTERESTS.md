@@ -1,6 +1,8 @@
 # Present
 [[Polymath]]
 [[Pixel Art]]
+[[Quantum Computing]]
+
 
 
 # Future 
@@ -9,7 +11,6 @@
 [[Story Writing]] 
 [[Animation]] 
 [[Blender]] 
-[[Quantum Computing ]]
 [[Game Development]] 
 [[Content Creation]] 
 [[Machine Learning]] 
