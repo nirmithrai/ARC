@@ -1,4 +1,4 @@
-# Level ?: Title
+# Title?
 ## Goal
 
 

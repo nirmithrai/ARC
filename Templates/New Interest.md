@@ -3,6 +3,7 @@ What is {{title}}?
 
 [[Hype - {{title}}]]
 [[Resources - {{title}}]]
+[[AI Slop - {{title}}]]
 
 # Goal
 Why pursue {{title}}?

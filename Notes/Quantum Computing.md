@@ -4,6 +4,7 @@ A new paradigm of computing that involves the use of quantum bits for computatio
 
 [[Hype - Quantum Computing]]
 [[Resources - Quantum Computing]]
+[[AI Slop - Quantum Computing]]
 
 # Goal
 *Why pursue Quantum Computing?*

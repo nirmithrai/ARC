@@ -2,17 +2,20 @@
 # Basics
 Art done by drawing individual Pixels
 
+[[AI Slop - Pixel Art]]
+
 # Goal
 Make good game art assets very fast.
 Develop a style.
 
+# [[Level 0 - Pixel Art]]
 ---
 # Past
 Started a new interest!
 
 # Present
-# [[Level 0 - Pixel Art]]
 
+# [[Level 1 - Pixel Art]]
 
 
 
@@ -26,7 +29,6 @@ Excercises
 Create a wallpaper 
 Create assets for YouTube channel
 
-# [[Level 1 - Pixel Art]]
 
 # [[Level 2 - Pixel Art]]
 
