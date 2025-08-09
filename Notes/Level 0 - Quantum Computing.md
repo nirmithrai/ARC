@@ -42,12 +42,13 @@ What are the levels?
 What are the exams? 
 What is the end goal?
 
-1. Foundational course 
-2. Hardware Rookie
-3. Algorithm explorer
-4. Variational Warrior (idk what this means either)
-5. Error-Correction Adept
-6. Contributor/Mastery
+1. Recommended Background 
+2. Foundational course 
+3. Hardware Rookie
+4. Algorithm explorer
+5. Variational Warrior (idk what this means either)
+6. Error-Correction Adept
+7. Contributor/Mastery
 
 # Do's and Don'ts?
 

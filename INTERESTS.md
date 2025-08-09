@@ -1,8 +1,9 @@
 ## Present
 [[Polymath]]
 [[Pixel Art]]
-[[Quantum Computing]]
+[[Linear Algebra]]
 [[Sleep]]
+
 
 
 ## All Interests 
@@ -16,20 +17,29 @@
 [[Game Development]] 
 [[Content Creation]] 
 [[Cinematography]]
+[[Photography]]
 [[Graphic Design]] 
 [[Advertising]] 
 
 
 ### Science 
 [[Polymath]]
+[[Linear Algebra]]
 [[Quantum Computing]]
 [[Sleep]]
 [[Mathematics]]
 [[Physics]]
 [[Machine Learning]]
+- [[Language Models]]
+- [[Computer Vision]]
+- [[Audio Generation]]
+- [[Image Generation]]
+- [[Video Generation]]
+- 
 
 
 ### Religion / Spirituality 
+[[Sanskrit]]
 [[Meditation]]
 [[Hinduism]]
 [[Islam]]

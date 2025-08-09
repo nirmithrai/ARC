@@ -30,3 +30,11 @@ A game which has 2 sets of mission objectives. You get to decide which one you w
 
 
 
+Art is not an excuse to be lazy
+#z 
+https://youtu.be/gP8d326-csc?si=NdMaWJjPZE-cNzlF
+
+Graphic design hype/resource 
+
+#z 
+You need to have an interest that stands as a rival to the thing you're trying to get away from. 

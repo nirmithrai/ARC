@@ -17,9 +17,30 @@ Started a new interest!
 # Present
 [[Level 0 - Quantum Computing]]
 
+# [[Level 1 - Quantum Computing]]
 
 # Future
 - [ ] Fill in the basics
 	- [ ] at least 1 hype
-	- [ ] at least 1 resource 
+	- [x] at least 1 resource 
 - [ ] Finish Level 0
+
+
+# [[Level 2 - Quantum Computing]]
+
+# [[Level 3 - Quantum Computing]]
+
+# [[Level 4 - Quantum Computing]]
+
+# [[Level 5 - Quantum Computing]]
+
+# [[Level 6 - Quantum Computing]]
+
+# [[Level 7 - Quantum Computing]]
+
+# [[Level 8 - Quantum Computing]]
+
+# [[Level 9 - Quantum Computing]]
+
+# [[Level 10 - Quantum Computing]]
+
