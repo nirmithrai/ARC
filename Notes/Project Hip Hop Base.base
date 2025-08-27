@@ -14,18 +14,29 @@ views:
         - file("04 Hip Hop Timeline 10s").hasLink(file.file)
         - file("05 Hip Hop Timeline 20s").hasLink(file.file)
     order:
-      - file.name
       - Release Date
-      - Album
-      - Album Art
+      - file.basename
       - Aritst
+      - Album
       - Producers
+      - Album Art
+      - Play
+      - file.name
     sort:
-      - property: Release Date
+      - property: Album
+        direction: ASC
+      - property: file.name
         direction: ASC
       - property: file.links
         direction: DESC
     rowHeight: medium
+    columnSize:
+      note.Release Date: 116
+      file.basename: 237
+      note.Aritst: 185
+      note.Album: 72
+      note.Album Art: 68
+      note.Play: 84
   - type: cards
     name: Hip hop Cards
     filters:
@@ -37,11 +48,10 @@ views:
         - file("05 Hip Hop Timeline 20s").hasLink(file.file)
     order:
       - file.name
-      - Release Date
-      - Album
-      - Album Art
       - Aritst
-      - Producers
+      - Album
+      - Release Date
+      - Play
     sort:
       - property: Release Date
         direction: ASC
@@ -49,3 +59,6 @@ views:
         direction: DESC
     rowHeight: medium
     image: note.Album Art
+    cardSize: 300
+    imageFit: ""
+    imageAspectRatio: 1
