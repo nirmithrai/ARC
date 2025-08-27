@@ -7,4 +7,5 @@ Album: Single
 Producers:
   - "[[Arthur Baker]]"
 Release Date: 1982-06-01
+Play: https://music.apple.com/in/album/planet-rock/1604619995?i=1604619997&ls
 ---
