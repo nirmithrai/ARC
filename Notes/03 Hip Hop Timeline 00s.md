@@ -182,5 +182,6 @@
 
 2009 – Jay-Z ft. Rihanna & Kanye West – “Run This Town” (single)
 
-2009 – Tyler, The Creator – Bastard (mixtape; foundational)
+2009 – Tyler, The Creator – Bastard 
 
+2009 – Rakim – The Seventh Seal

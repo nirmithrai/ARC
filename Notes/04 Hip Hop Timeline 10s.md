@@ -24,7 +24,7 @@
     
 2011 – Danny Brown – XXX (free album; essential)
     
-2011 – A$AP Rocky – LIVE.LOVE.A$AP (mixtape; essential)
+2011 – ASAP Rocky – LIVE.LOVE.A$AP (mixtape; essential)
     
 2011 – The Roots – Undun
     
@@ -112,7 +112,7 @@
     
 2015 – Future – DS2
     
-2015 – Joey Bada$$ – B4.Da.$$
+2015 – Joey BadaSS – B4.Da.SS
     
 2015 – Dr. Dre – Compton
     
@@ -144,15 +144,17 @@
     
 2016 – Kendrick Lamar – untitled unmastered.
     
+2017 – Migos – Culture
+
 2017 – Kendrick Lamar – DAMN.
     
+2017 – Cardi B – “Bodak Yellow” (single; era-defining)
+
 2017 – Jay-Z – 4:44
-    
-2017 – Migos – Culture
     
 2017 – Tyler, The Creator – Flower Boy
     
-2017 – Joey Bada$$ – All-Amerikkkan Bada$$
+2017 – Joey BadaSS – All-Amerikkkan BadaSS
     
 2017 – Vince Staples – Big Fish Theory (deep cut)
     
