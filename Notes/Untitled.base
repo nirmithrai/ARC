@@ -5,7 +5,7 @@ views:
     name: Hip hop
     filters:
       and:
-        - file.name.contains("Hip Hop Timeline")
+        - file.path == "Notes/01 Hip Hop Timeline 80s"
     order:
       - file.name
       - file.links

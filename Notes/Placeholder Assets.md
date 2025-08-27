@@ -1,12 +1,16 @@
+# 0. Notes
+get textures from https://www.kenney.nl/assets/prototype-textures
+
+
 # 📦 1. Environment Building Blocks
 
 ## Cubes / Boxes (base = 1×1×1 unit)
-Box 1×1×1 (basic cube)
-Box 2×1×1 (rectangular brick)
-Box 2×2×1 (flat tile)
-Box 4×4×1 (big platform tile)
-Box 4×1×1 (wall segment)
-Box 4×4×4 (big block)
+- [ ] Box 1×1×1 (basic cube)
+- [ ] Box 2×1×1 (rectangular brick)
+- [ ] Box 2×2×1 (flat tile)
+- [ ] Box 4×4×1 (big platform tile)
+- [ ] Box 4×1×1 (wall segment)
+- [ ] Box 4×4×4 (big block)
 ## Walls
 - [ ] Thin wall: 4×0.25×2
 - [ ] Thick wall: 4×1×2
