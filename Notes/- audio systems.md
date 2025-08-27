@@ -1,0 +1,6 @@
+- [ ] bgm
+- [ ] sfx
+- [ ] menu sounds
+- [ ] sounds menu
+- [ ] dialogue audio
+- [ ] 

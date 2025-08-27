@@ -1,19 +1,18 @@
 ## Present
-[[Polymath]]
-[[Pixel Art]]
-[[Quantum Computing]]
-[[Sleep]]
+[[Game Development]] 
+[[Blender]] 
+
 
 
 ## All Interests 
 ### Art
 [[Pixel Art]]
 [[Music Production]] 
+[[Game Development]] 
 [[Story Writing]] 
 [[Digital Artist]]  
 [[Animation]] 
 [[Blender]] 
-[[Game Development]] 
 [[Content Creation]] 
 [[Cinematography]]
 [[Graphic Design]] 

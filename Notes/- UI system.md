@@ -1,0 +1,5 @@
+- [ ] pause menu
+- [ ] main menu
+- [ ] settings
+- [ ] credits
+- [ ] 
