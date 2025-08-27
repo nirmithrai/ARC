@@ -1,0 +1,3 @@
+---
+Album Art: "![album art](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rapper%27s_Delight_%28Long_version%29_by_Sugarhill_Gang_US_12-inch_vinyl_red_label.png/250px-Rapper%27s_Delight_%28Long_version%29_by_Sugarhill_Gang_US_12-inch_vinyl_red_label.png)"
+---

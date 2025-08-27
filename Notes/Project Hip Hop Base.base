@@ -1,0 +1,51 @@
+properties:
+  note.Aritst:
+    displayName: Artist
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: Hip hop
+    filters:
+      or:
+        - file("01 Hip Hop Timeline 80s").hasLink(file.file)
+        - file("02 Hip Hop Timeline 90s").hasLink(file.file)
+        - file("03 Hip Hop Timeline 00s").hasLink(file.file)
+        - file("04 Hip Hop Timeline 10s").hasLink(file.file)
+        - file("05 Hip Hop Timeline 20s").hasLink(file.file)
+    order:
+      - file.name
+      - Release Date
+      - Album
+      - Album Art
+      - Aritst
+      - Producers
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.links
+        direction: DESC
+    rowHeight: medium
+  - type: cards
+    name: Hip hop Cards
+    filters:
+      or:
+        - file("01 Hip Hop Timeline 80s").hasLink(file.file)
+        - file("02 Hip Hop Timeline 90s").hasLink(file.file)
+        - file("03 Hip Hop Timeline 00s").hasLink(file.file)
+        - file("04 Hip Hop Timeline 10s").hasLink(file.file)
+        - file("05 Hip Hop Timeline 20s").hasLink(file.file)
+    order:
+      - file.name
+      - Release Date
+      - Album
+      - Album Art
+      - Aritst
+      - Producers
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.links
+        direction: DESC
+    rowHeight: medium
+    image: note.Album Art
