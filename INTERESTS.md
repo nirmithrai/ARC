@@ -1,8 +1,6 @@
 ## Present
-[[Polymath]]
-[[Pixel Art]]
-[[Linear Algebra]]
-[[Sleep]]
+[[Game Development]]
+[[Blender]]
 
 
 
@@ -10,11 +8,11 @@
 ### Art
 [[Pixel Art]]
 [[Music Production]] 
+[[Game Development]] 
 [[Story Writing]] 
 [[Digital Artist]]  
 [[Animation]] 
 [[Blender]] 
-[[Game Development]] 
 [[Content Creation]] 
 [[Cinematography]]
 [[Photography]]
