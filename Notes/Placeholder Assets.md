@@ -1,6 +1,6 @@
 # 0. Notes
 get textures from https://www.kenney.nl/assets/prototype-textures
-
+[[Asset Creation Guide]]
 
 # 📦 1. Environment Building Blocks
 

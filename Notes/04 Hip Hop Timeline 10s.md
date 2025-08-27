@@ -24,7 +24,7 @@
     
 2011 – Danny Brown – XXX (free album; essential)
     
-2011 – ASAP Rocky – LIVE.LOVE.A$AP (mixtape; essential)
+2011 – A\$AP Rocky – LIVE.LOVE.A\$AP (mixtape; essential)
     
 2011 – The Roots – Undun
     
@@ -42,7 +42,7 @@
     
 2012 – ScHoolboy Q – Habits & Contradictions (deep cut)
     
-2012 – Joey Bada$.$ – 1999 (mixtape; essential)
+2012 – Joey Bada\$.\$ – 1999 (mixtape; essential)
     
 2012 – Chief Keef – “I Don’t Like”
     
@@ -54,7 +54,7 @@
     
 2012 – Kendrick Lamar – good kid, m.A.A.d city
     
-2013 – A$AP Rocky – Long.Live.A$AP
+2013 – A\$AP Rocky – Long.Live.A\$AP
     
 2013 – Tyler, The Creator – Wolf
     
@@ -106,13 +106,13 @@
     
 2015 – Vince Staples – Summertime ‘06
     
-2015 – A$AP Rocky – At.Long.Last.A$AP
+2015 – A\$AP Rocky – At.Long.Last.A\$AP
     
 2015 – Future – 56 Nights (mixtape; essential)
     
 2015 – Future – DS2
     
-2015 – Joey BadaSS – B4.Da.SS
+2015 – Joey Bada\$\$ – B4.Da.\$\$
     
 2015 – Dr. Dre – Compton
     
@@ -154,7 +154,7 @@
     
 2017 – Tyler, The Creator – Flower Boy
     
-2017 – Joey BadaSS – All-Amerikkkan BadaSS
+2017 – Joey Bada\$\$ – All-Amerikkkan Bada\$\$
     
 2017 – Vince Staples – Big Fish Theory (deep cut)
     
@@ -194,7 +194,7 @@
     
 2018 – Juice WRLD – “All Girls Are the Same”
     
-2018 – A$AP Rocky – “Praise the Lord (Da Shine)”
+2018 – A\$AP Rocky – “Praise the Lord (Da Shine)”
     
 2018 – Black Panther: The Album (curated by Kendrick Lamar)
     

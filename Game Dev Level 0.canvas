@@ -2,11 +2,11 @@
 	"nodes":[
 		{"id":"2232ba1e522db9e1","x":1360,"y":680,"width":720,"height":2480,"type":"group","label":"Blender"},
 		{"id":"cde0da16bff204f1","type":"group","x":-200,"y":680,"width":720,"height":2200,"label":"Godot"},
-		{"id":"7604d13089deb0a1","type":"file","file":"Notes/- basic 3d movement.md","x":-180,"y":780,"width":680,"height":400},
-		{"id":"5388ce1f2784664c","type":"file","file":"Notes/- basic camera system.md","x":-180,"y":1327,"width":680,"height":400},
-		{"id":"c35513918d65d623","type":"file","file":"Notes/- audio systems.md","x":-180,"y":1874,"width":680,"height":400},
+		{"id":"7604d13089deb0a1","type":"file","file":"Notes/basic 3d movement.md","x":-180,"y":780,"width":680,"height":400},
+		{"id":"5388ce1f2784664c","type":"file","file":"Notes/basic camera system.md","x":-180,"y":1327,"width":680,"height":400},
+		{"id":"c35513918d65d623","type":"file","file":"Notes/audio systems.md","x":-180,"y":1874,"width":680,"height":400},
 		{"id":"a33dba171eef687d","type":"file","file":"Notes/Placeholder Assets.md","x":1480,"y":720,"width":480,"height":2360},
-		{"id":"a77ac90a0897e4b9","type":"file","file":"Notes/- UI system.md","x":-180,"y":2360,"width":680,"height":400},
+		{"id":"a77ac90a0897e4b9","type":"file","file":"Notes/UI system.md","x":-180,"y":2360,"width":680,"height":400},
 		{"id":"d171701114c89228","type":"file","file":"Notes/Test Room.md","x":800,"y":-120,"width":400,"height":400}
 	],
 	"edges":[

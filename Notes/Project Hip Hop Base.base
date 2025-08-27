@@ -55,8 +55,8 @@ views:
     sort:
       - property: Release Date
         direction: ASC
-      - property: file.links
-        direction: DESC
+      - property: file.basename
+        direction: ASC
     rowHeight: medium
     image: note.Album Art
     cardSize: 300
