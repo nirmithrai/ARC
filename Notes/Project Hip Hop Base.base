@@ -3,8 +3,6 @@ properties:
     displayName: Artist
 views:
   - type: table
-    name: Table
-  - type: table
     name: Hip hop
     filters:
       or:
