@@ -29,6 +29,7 @@
 
 
 ### Religion / Spirituality 
+[[Sanskrit]]
 [[Meditation]]
 [[Hinduism]]
 [[Islam]]
