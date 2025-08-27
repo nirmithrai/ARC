@@ -1,6 +1,6 @@
 ## Present
-[[Game Development]] 
-[[Blender]] 
+[[Game Development]]
+[[Blender]]
 
 
 
@@ -15,17 +15,25 @@
 [[Blender]] 
 [[Content Creation]] 
 [[Cinematography]]
+[[Photography]]
 [[Graphic Design]] 
 [[Advertising]] 
 
 
 ### Science 
 [[Polymath]]
+[[Linear Algebra]]
 [[Quantum Computing]]
 [[Sleep]]
 [[Mathematics]]
 [[Physics]]
 [[Machine Learning]]
+- [[Language Models]]
+- [[Computer Vision]]
+- [[Audio Generation]]
+- [[Image Generation]]
+- [[Video Generation]]
+- 
 
 
 ### Religion / Spirituality 
