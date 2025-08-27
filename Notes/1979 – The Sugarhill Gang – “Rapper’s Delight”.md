@@ -3,6 +3,6 @@ Album Art: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rapper%27s_
 Aritst: "[[The Sugarhill Gang]]"
 Play: https://music.apple.com/us/song/rappers-delight/52310973
 Album: Single
-Release Date: 9/16/1979
+Release Date: 1979-09-02
 Producers: "[[Sylvia Robinson]]"
 ---

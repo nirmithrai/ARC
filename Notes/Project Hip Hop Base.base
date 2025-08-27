@@ -21,6 +21,8 @@ views:
       - Play
       - file.name
     sort:
+      - property: Aritst
+        direction: DESC
       - property: Album
         direction: ASC
       - property: file.name
@@ -30,11 +32,11 @@ views:
     rowHeight: medium
     columnSize:
       note.Release Date: 116
-      file.basename: 237
+      file.basename: 596
       note.Aritst: 185
-      note.Album: 72
-      note.Album Art: 68
-      note.Play: 84
+      note.Album: 507
+      note.Album Art: 185
+      note.Play: 214
   - type: cards
     name: Hip hop Cards
     filters:
