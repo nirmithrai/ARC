@@ -12,6 +12,7 @@ views:
         - file("04 Hip Hop Timeline 10s").hasLink(file.file)
         - file("05 Hip Hop Timeline 20s").hasLink(file.file)
     order:
+      - Finished
       - Release Date
       - file.basename
       - Aritst
@@ -21,9 +22,7 @@ views:
       - Play
       - file.name
     sort:
-      - property: Aritst
-        direction: DESC
-      - property: Album
+      - property: Release Date
         direction: ASC
       - property: file.name
         direction: ASC
@@ -37,6 +36,7 @@ views:
       note.Album: 507
       note.Album Art: 185
       note.Play: 214
+      note.Finished: 34
   - type: cards
     name: Hip hop Cards
     filters:
@@ -46,6 +46,139 @@ views:
         - file("03 Hip Hop Timeline 00s").hasLink(file.file)
         - file("04 Hip Hop Timeline 10s").hasLink(file.file)
         - file("05 Hip Hop Timeline 20s").hasLink(file.file)
+    order:
+      - file.name
+      - Aritst
+      - Album
+      - Release Date
+      - Play
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.links
+        direction: DESC
+    rowHeight: medium
+    image: note.Album Art
+    cardSize: 300
+    imageFit: ""
+    imageAspectRatio: 1
+  - type: cards
+    name: 80s Hip hop Cards
+    filters:
+      or:
+        - file("01 Hip Hop Timeline 80s").hasLink(file.file)
+    order:
+      - file.name
+      - Aritst
+      - Album
+      - Release Date
+      - Play
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.links
+        direction: DESC
+    rowHeight: medium
+    image: note.Album Art
+    cardSize: 300
+    imageFit: ""
+    imageAspectRatio: 1
+  - type: cards
+    name: 90s Hip hop Cards
+    filters:
+      or:
+        - file("02 Hip Hop Timeline 90s").hasLink(file.file)
+    order:
+      - file.name
+      - Aritst
+      - Album
+      - Release Date
+      - Play
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.links
+        direction: DESC
+    rowHeight: medium
+    image: note.Album Art
+    cardSize: 300
+    imageFit: ""
+    imageAspectRatio: 1
+  - type: cards
+    name: 00s Hip hop Cards
+    filters:
+      or:
+        - file("03 Hip Hop Timeline 00s").hasLink(file.file)
+    order:
+      - file.name
+      - Aritst
+      - Album
+      - Release Date
+      - Play
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.links
+        direction: DESC
+    rowHeight: medium
+    image: note.Album Art
+    cardSize: 300
+    imageFit: ""
+    imageAspectRatio: 1
+  - type: cards
+    name: 10s Hip hop Cards
+    filters:
+      or:
+        - file("04 Hip Hop Timeline 10s").hasLink(file.file)
+    order:
+      - file.name
+      - Aritst
+      - Album
+      - Release Date
+      - Play
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.links
+        direction: DESC
+    rowHeight: medium
+    image: note.Album Art
+    cardSize: 300
+    imageFit: ""
+    imageAspectRatio: 1
+  - type: cards
+    name: 20s Hip hop Cards
+    filters:
+      or:
+        - file("05 Hip Hop Timeline 20s").hasLink(file.file)
+    order:
+      - file.name
+      - Aritst
+      - Album
+      - Release Date
+      - Play
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.links
+        direction: DESC
+    rowHeight: medium
+    image: note.Album Art
+    cardSize: 300
+    imageFit: ""
+    imageAspectRatio: 1
+  - type: cards
+    name: Finished Hip hop Cards
+    filters:
+      or:
+        - and:
+            - Finished == true
+            - or:
+                - file("01 Hip Hop Timeline 80s").hasLink(file.file)
+                - file("02 Hip Hop Timeline 90s").hasLink(file.file)
+                - file("03 Hip Hop Timeline 00s").hasLink(file.file)
+                - file("04 Hip Hop Timeline 10s").hasLink(file.file)
+                - file("05 Hip Hop Timeline 20s").hasLink(file.file)
     order:
       - file.name
       - Aritst

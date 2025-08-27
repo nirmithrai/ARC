@@ -1,0 +1,4 @@
+---
+Aritst:
+  - "[[Ol' Dirty Bastard]]"
+---

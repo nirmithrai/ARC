@@ -1,0 +1,4 @@
+---
+Aritst:
+  - "[[Snoop Dogg]]"
+---
