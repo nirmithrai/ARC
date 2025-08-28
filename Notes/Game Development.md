@@ -70,3 +70,4 @@ bosses (non combat, good at their field)**
 clicker games ( for progression)
 animal wrangling (rdr cows)
 trophy room
+Metroidvania
