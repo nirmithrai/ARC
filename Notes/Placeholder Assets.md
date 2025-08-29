@@ -31,6 +31,11 @@ get textures from https://www.kenney.nl/assets/prototype-textures
 - [ ] Rock: 1×1×1 blobby mesh
 - [ ] Table: 2×1×1 with 4 cylinder legs
 - [ ] Chair: 1×1×1.5 (blocky L-shape)
+- [ ] Collectible sphere: Ø0.5
+- [ ] Collectible diamond: Cube 0.5×0.5×0.5 rotated 45°
+- [ ] Health pack: Cube 0.5×0.5×0.5 with cross extrude
+- [ ] Ammo box: 1×0.5×0.5
+- [ ] Key: Flat cross shape 0.25×0.25×1
 
 # 🧍 3. Characters / NPCs
 
@@ -40,26 +45,20 @@ get textures from https://www.kenney.nl/assets/prototype-textures
 - [ ] Enemy large: Cube 2×2×2
 (optional: rig a capsule with stick limbs for animation tests)
 
-# 🎮 4. Gameplay Objects
-- [ ] Collectible sphere: Ø0.5
-- [ ] Collectible diamond: Cube 0.5×0.5×0.5 rotated 45°
-- [ ] Health pack: Cube 0.5×0.5×0.5 with cross extrude
-- [ ] Ammo box: 1×0.5×0.5
-- [ ] Key: Flat cross shape 0.25×0.25×1
-
-# ⚔️ 5. Weapons / Vehicles
+# ⚔️ 4. Items / Weapons
 - [ ] Sword placeholder: Cube 0.1×0.1×1 + small cross-guard
 - [ ] Gun placeholder: L-shape block 1×0.25×0.5
+- [ ] shield 
+- [ ] 
+
+# Vehicles
 - [ ] Car placeholder: Box 2×1×0.5 with 4 cylinders for wheels
 - [ ] Plane placeholder: Box fuselage 2×0.5×0.5 with flat wing planes
+- [ ] boat
+- [ ] 
 
-# 🚩 6. Markers / UI
+# 🚩 5. Markers / UI
 - [ ] Arrow: Cone Ø0.5 × 1 + small cylinder base
 - [ ] Cone marker: Ø1 × 2
 - [ ] Checkpoint pillar: Cylinder Ø0.25 × 2
 - [ ] Flag: Cylinder pole Ø0.1 × 3 with flat plane flag
-
-# 🔧 7. Extra Utility
-- [ ] Grid floor plane (10×10)
-- [ ] Bounding box (wireframe cube, 5×5×5)
-- [ ] Simple camera placeholder (pyramid frustum shape)
