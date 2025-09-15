@@ -2,16 +2,25 @@
 # Current Goal
 [[Test Room]]
 
+# Core Principles 
+- Data Driven Development. New content can be added by adding more data (assets, items, dialogues) rather than any code change. 
+- UI tools to create this data (quest creator, )
+- signals > autoloads 
+- one way data flow. World emits events -> systems react -> UI updates. 
+- deterministic time. WorldClock 
+
 
 # Modular systems 
 [[basic 3d movement]]
 [[basic camera system]]
 [[audio systems]]
 [[UI system]]
+[[controls system]]
 [[quest system]]
+advanced quest system*
 advanced 3d movement*
-mini games
-inventory system 
+[[mini games]]
+[[inventory system ]]
 dialogue system 
 shopping system 
 crafting system*
@@ -27,6 +36,7 @@ day night cycle*
 skill tree*
 advanced camera system (handycam, dslr, photo mode)
 faction system 
+
 
 
 # Mechanics 
@@ -70,4 +80,89 @@ bosses (non combat, good at their field)**
 clicker games ( for progression)
 animal wrangling (rdr cows)
 trophy room
-Metroidvania
+Metroidvania 
+
+
+# Loops library 
+Mastery Loops
+Economy Loops
+Narrative Loops 
+Collection Loops 
+Social Loops 
+
+
+
+
+# Helpers
+Event bus (autoloads)
+Fact Ledger & Rule Engine
+Save Load System
+WorldClock
+Input System
+UI toolkit
+Interaction System
+Item manager 
+Scene Loader 
+Tag Registry 
+Formula (Curve) library 
+Routing Service 
+Spawner 
+Localization 
+Telemetry 
+Cheats
+Mod Hooks
+
+
+# Data shapes
+Items
+Quests
+Shops
+Schedules
+Factions
+Relationships
+Stats
+Skills
+Recipes
+Vehicles
+Locations
+Achievements 
+Cutscenes
+Economy 
+Calendar 
+Dialogue 
+Spawn Tables
+Weather*
+
+
+
+
+
+
+# Dev Tools
+Quest creator
+Cutscene editor 
+Sandbox 
+Save inspector
+Dialogue visualizer 
+Quest visualizer
+Schedule editor
+Economy simulator 
+Balance runner
+State machine inspector
+Linter (validator)
+Live tuning panel
+Logging setup 
+
+
+
+
+
+
+
+
+
+# References 
+[[I want to learn to write good gdscript code. Can you find me examples of good modular projects (games or plugins) that I can look at and study]]
+
+
+

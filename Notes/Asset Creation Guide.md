@@ -7,7 +7,7 @@
 - [ ]  **Apply transforms** (`Ctrl+A` → All Transforms). Target: Scale 1, Rot 0.    
 - [ ]  **Set origin** (bottom/hinge/rotation center):    
     - [ ] Edit Mode → select reference face/vertex → `Shift+S` → Cursor to Selected → Object Mode → Object → Set Origin → Origin to 3D Cursor.        
-- [ ]  **Name cleanly** (Collection, Object, Mesh): `prop_<category>_<size>[_variant]` (e.g., `prop_cube_1m_a`).    
+- [ ]  **Name cleanly** (Collection, Object, Mesh): `prop_<category>_<size>[_variant]` (e.g., `prop_cube_1m_a`).    (Add "-col" if you want it to have the same collision)
 - [ ]  **Shade**: Flat (for hard placeholders).    
 - [ ]  **UV unwrap**:    
     - [ ] Simple boxes → **Cube Projection**.        
@@ -90,3 +90,5 @@
 - **Keep scenes clean**: never edit imported meshes directly; always wrap in your own `.tscn` prefab.    
 - **Consistent naming** keeps your GridMap and search sane: `prop_`, `arch_`, `kit_`, etc.  
 - **Reusing ProtoKit in a new project**: copy or add as a git submodule under `res://libraries/protokit/`, set import flags once, and you’re ready to drag prefabs or paint GridMaps.
+
+
