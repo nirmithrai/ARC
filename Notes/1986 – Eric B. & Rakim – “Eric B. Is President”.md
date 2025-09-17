@@ -2,7 +2,7 @@
 Aritst:
   - "[[Eric B.]]"
   - "[[Rakim]]"
-Album: Single
+Album: Single - Eric B. Is President
 Release Date: 1986-06-01
 Producers:
   - "[[Eric B.]]"

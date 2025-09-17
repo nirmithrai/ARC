@@ -1,7 +1,7 @@
 ---
 Aritst:
   - "[[Beastie Boys]]"
-Album: Single
+Album: Single - (You Gotta) Fight for Your Right (To Party!)
 Release Date: 1986-12-20
 Producers:
   - "[[Rick Rubin]]"

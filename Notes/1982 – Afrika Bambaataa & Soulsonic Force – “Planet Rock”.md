@@ -3,7 +3,7 @@ Album Art: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Planet_rock
 Aritst:
   - "[[Afrika Bambaataa]]"
   - "[[Soulsonic Force]]"
-Album: Single
+Album: Single - Planet Rock
 Producers:
   - "[[Arthur Baker]]"
 Release Date: 1982-06-01

@@ -31,7 +31,7 @@ views:
     rowHeight: medium
     columnSize:
       note.Finished: 34
-      file.name: 207
+      file.name: 407
       note.Release Date: 116
       note.Album: 292
       note.Album Art: 185
@@ -48,9 +48,8 @@ views:
         - file("04 Hip Hop Timeline 10s").hasLink(file.file)
         - file("05 Hip Hop Timeline 20s").hasLink(file.file)
     order:
-      - file.name
-      - Aritst
       - Album
+      - Aritst
       - Release Date
       - Play
     sort:
