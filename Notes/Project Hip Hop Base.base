@@ -13,14 +13,14 @@ views:
         - file("05 Hip Hop Timeline 20s").hasLink(file.file)
     order:
       - Finished
+      - file.name
       - Release Date
-      - file.basename
-      - Aritst
       - Album
       - Producers
       - Album Art
       - Play
-      - file.name
+      - Aritst
+      - file.basename
     sort:
       - property: Release Date
         direction: ASC
@@ -30,13 +30,14 @@ views:
         direction: DESC
     rowHeight: medium
     columnSize:
+      note.Finished: 34
+      file.name: 207
       note.Release Date: 116
-      file.basename: 596
-      note.Aritst: 185
-      note.Album: 507
+      note.Album: 292
       note.Album Art: 185
       note.Play: 214
-      note.Finished: 34
+      note.Aritst: 185
+      file.basename: 303
   - type: cards
     name: Hip hop Cards
     filters:

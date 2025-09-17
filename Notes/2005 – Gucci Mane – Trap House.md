@@ -1,0 +1,4 @@
+---
+Aritst:
+  - "[[Gucci Mane]]"
+---

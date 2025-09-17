@@ -1,0 +1,4 @@
+---
+Aritst:
+  - "[[De La Soul]]"
+---
