@@ -1,4 +1,3 @@
-\*=optional \*\*=untested
 # Current Goal
 [[Test Room]]
 
@@ -9,6 +8,7 @@
 - one way data flow. World emits events -> systems react -> UI updates. 
 - deterministic time. WorldClock 
 
+\*=optional \*\*=untested
 
 # Modular systems 
 [[basic 3d movement]]
