@@ -1,3 +1,6 @@
+this comes from [[I want to learn to write good gdscript code. Can you find me examples of good modular projects (games or plugins) that I can look at and study]]
+
+# Github Projects to Study
 [[Cogito - First Person Immersive Sim Template Project]]
 [[GGT - Godot Game Template - simple generic starter project]]
 
@@ -22,3 +25,11 @@
 [[Awesome-Godot - Godot index]]
 [[Official Godot Demo Projects]]
 
+# How to study
+**Map the Architecture**
+- Autoloads
+- Resources
+- Signals
+- Scenes
+- Classes
+- Scripts
