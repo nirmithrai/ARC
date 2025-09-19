@@ -8,6 +8,8 @@
 - one way data flow. World emits events -> systems react -> UI updates. 
 - deterministic time. WorldClock 
 
+[[Game Development Studies]]
+
 \*=optional \*\*=untested
 
 # Modular systems 
