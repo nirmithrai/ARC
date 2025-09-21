@@ -95,3 +95,8 @@ does this mean that i should use cogito itself? idk. i think if i were to make a
 [[STEAL]]. 
 
 im going to steal to accelerate my progress. im going to find the best [[basic 3d movement]] system and steal it, im going to find the best [[basic camera system]] and steal it. im going to find the best [[inventory system]] and steal it. i dont want to write everything myself. but i do want everything to be mine. i'll relentlessly steal code from all the sources i can find and then make them my own. 
+
+
+Next time. Actually looking at Cogito's code. fr fr
+
+# Notes 3
