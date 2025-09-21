@@ -82,3 +82,16 @@ if not (things i want to be true):
 this is such a simple thing that i never considered. i do a lot of 
 !loading?Component:Loading  
 and this is very similar, but it is something i just didn't consider. 
+
+**input_helper**
+it is interesting to see how plugins are made. seems like essentially just \_enter_tree() and \_exit_tree() functions adding and removing an autoload. 
+
+input_helper.gd is a huge file. not going to look at the whole thing. 
+
+skimmed through it, only thing i got from this was that i should NOT be trying to write everything myself. there are a lot of exceptions and corner cases and modes and conditions that will take me months if not years to sort out. i really should be using existing projects to make my life easier. 
+
+does this mean that i should use cogito itself? idk. i think if i were to make a game, i really should use it. but im not trying to make a game, i'm trying to learn game development. so i should look at different aspects and decided whether it's worth writing all this code myself. 
+
+[[STEAL]]. 
+
+im going to steal to accelerate my progress. im going to find the best [[basic 3d movement]] system and steal it, im going to find the best [[basic camera system]] and steal it. im going to find the best [[inventory system]] and steal it. i dont want to write everything myself. but i do want everything to be mine. i'll relentlessly steal code from all the sources i can find and then make them my own. 
