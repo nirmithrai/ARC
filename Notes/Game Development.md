@@ -43,7 +43,7 @@ faction system
 
 # Mechanics 
 talking 
-puzzles (timing, spatial, interact in right order, gmtk boss keys, environmental challenges)
+puzzles (timing, spatial, interact in right order, gmtk boss keys, environmental challenges, put cube in cube shaped hole)
 platforming
 stealth
 strategy (4x)*
