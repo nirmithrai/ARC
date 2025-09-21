@@ -63,3 +63,22 @@ one thing i hadn't considered was having all 3 and using whatever is most conven
 
 Next actually looking at the code
 # Notes 2
+before i get to cogito, i'm looking at **quick_audio** plugin that the was a prerequisite. i noticed a cool pattern. 
+
+```gdscript
+if not (audio_stream_player_out is AudioStreamPlayer or audio_stream_player_out is AudioStreamPlayer2D or audio_stream_player_out is AudioStreamPlayer3D):
+	push_error("Non-AudioStreamPlayer[XD] provided to Audio.sequential_fade(...) as audio_stream_player_out")
+	return
+
+```
+
+an "if not" pattern for validation. 
+```psuedo
+if not (things i want to be true):
+	error(msg)
+	return
+```
+
+this is such a simple thing that i never considered. i do a lot of 
+!loading?Component:Loading  
+and this is very similar, but it is something i just didn't consider. 
