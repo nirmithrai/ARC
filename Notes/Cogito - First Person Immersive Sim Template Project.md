@@ -100,3 +100,51 @@ im going to steal to accelerate my progress. im going to find the best [[basic 3
 Next time. Actually looking at Cogito's code. fr fr
 
 # Notes 3
+## General
+### cogito_plugin.gd
+4 autoloads
+1. globals
+2. scene manager
+3. quest manager
+4. menu template manager
+
+### cogito_globals.gd
+looks like it loads the settings and logs mainly. also has functions for drawing a debug box. nothing specific to the project tbh.
+
+## SceneManagement
+### cogito_scene_manager.gd
+signal to update gui. simple but didn't cross my mind. another for fade_finished. 
+
+vars for world and player states. 
+
+seems like scene manager is handling saving and loading. loading also contains loading for the quest manager. makes sense, but this type of coupling is what i wanted to avoid. i feel like the save load should be generic and each module should have its own way of handling the loaded state (and saving state). it manually loads active quests, completed quests and failed quests. what if i wanted to add a 4th kind of quest? or am i stuck with these 3 if i choose to use this addon? 
+
+more specific loads. there's gotta be a better way to do this right? like do we really need 3 lines of code just to load the sitting states?
+
+saving is also just the inverse of all that. 
+
+maybe its a tradeoff between having all the save load logic in one file vs every file maintaining its own save load logic. but what about a save signal that any file that has data worth saving can subscribe to? all can write to a file on their own and loading can be just them referencing from that file when they need to. am i being too naive?
+
+the save here might not be game save but rather scene saves. but my point still stands? well, there aren't very many other files here. but idk, i dont like the quest loading here. 
+
+also, its a lot of code to have in an autoload. 
+
+### cogito_scene.gd
+main function seems to be to move player to a "connector". each scene can have an array of possible connectors and you can choose which one to move to. 
+
+other than that its just music setup. 
+
+### cogito_player_state.gd
+a whole bunch of player variables and functions to save and load them. 
+
+### cogito_scene_state.gd
+pretty sparse. just nodes and states to save and load. pretty generic. i guess this is the kind of generic file i was expecting with the autoload.
+
+### misc
+world_property_setter.gd is pretty self explanatory. also pretty generic, ig
+
+loading_screen.gd is surprisingly big and complicated. loading screen might itself be quite an adventure on its own.  
+
+next time: QuestSystem and EasyMenus
+
+# Notes 4
