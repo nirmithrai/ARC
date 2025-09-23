@@ -145,6 +145,6 @@ world_property_setter.gd is pretty self explanatory. also pretty generic, ig
 
 loading_screen.gd is surprisingly big and complicated. loading screen might itself be quite an adventure on its own.  
 
-next time: QuestSystem and EasyMenus
+next time: QuestSystem and EasyMenus, also make a list of all the main folders and check them off as we go though them. 
 
 # Notes 4
