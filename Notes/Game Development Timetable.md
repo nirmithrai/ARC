@@ -36,6 +36,7 @@ Sat     Production
 - Experiment
 	- NPC AI behaviour 
 	- physics engine
+	- plugins and add-ons 
 
 
 ## Art & Animation
@@ -66,6 +67,7 @@ Sat     Production
 	
 
 ## Audio (Music & SFX)
+[[I know nothing about audio or music for video games Where do I start with this]]
 
 - Music sketching (motifs, loops, chord palettes)
 - SFX design study (foley/synthesis)
@@ -105,6 +107,7 @@ Sat     Production
 - Accessibility pass (input, readability, fail-forward)
 
 ## Production / Business / “Solo Studio Ops”
+**Go through each decipline and set up next steps** 
 ### Study
 - Risk assessment (identify→mitigate)
 - Competition/market scan
