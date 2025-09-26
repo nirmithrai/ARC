@@ -100,7 +100,7 @@
 
 [[1997 – Missy Elliott – Supa Dupa Fly]]
 
-[[1997 – Company Flow – Funcrusher Plus (underground watershed)]]
+[[1997 – Company Flow – Funcrusher Plus]]
 
 [[1997 – Rakim – The 18th Letter]]
 

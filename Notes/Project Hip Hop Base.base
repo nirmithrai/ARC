@@ -16,7 +16,6 @@ views:
       - file.name
       - Release Date
       - Album
-      - Producers
       - Album Art
       - Play
       - Aritst
@@ -31,9 +30,9 @@ views:
     rowHeight: medium
     columnSize:
       note.Finished: 40
-      file.name: 407
+      file.name: 192
       note.Release Date: 116
-      note.Album: 292
+      note.Album: 183
       note.Album Art: 185
       note.Play: 214
       note.Aritst: 185
