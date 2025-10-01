@@ -10,13 +10,13 @@ if i can combine it with the starter template, it will we awesome.
 
 ###### other stuff
 
-features/mechanics
+features/mechanics stuff
 - flight sim https://github.com/fbcosentino/godot-simplified-flightsim *if i can simplify it further maybe i can add airplanes to the game*
 - [Phantom Camera](https://github.com/ramokz/phantom-camera) - Designed to provide and simplify common behaviors for the built-in Camera2D and Camera3D nodes. *this seems really cool for 2d but idk how it is for 3d. i need a rohbust 3D camera that follows the player. the look at functionality could be interesting though.*
 - [Inventory Manager](https://github.com/Rubonnek/inventory-manager) - Minimalistic inventory manager for easily adding and removing items with variable stack sizes and stack count limits.
 - [Health, HitBoxes, HurtBoxes, and HitScans](https://github.com/cluttered-code/godot-health-hitbox-hurtbox) - 2D and 3D Components to manage health, damage, and healing.
 
-coding stuff/features
+coding stuff
 - style guide for godot. https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html
 - Design patterns with pictures https://refactoring.guru/design-patterns
 - godot shaders https://github.com/gdquest-demos/godot-shaders
