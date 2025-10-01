@@ -1,8 +1,9 @@
 # Current Goal
 [[Test Room]]
-[[Game Development Timetable]]
 
 ## Future Goals
+game kickstart template
+[[Game Development Timetable]]
 makes smallest games. use 1 single mechanic.
 # Core Principles 
 - Data Driven Development. New content can be added by adding more data (assets, items, dialogues) rather than any code change. 
