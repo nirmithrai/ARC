@@ -1,3 +1,6 @@
+# ABANDONED
+takes too long. gives illusion of progress without any results. best to just do a practical project instea
+
 # Goal
 To learn from the best and see what a finished project looks like. 
 - Best practices, 
