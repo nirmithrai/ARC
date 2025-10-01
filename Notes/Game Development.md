@@ -19,9 +19,9 @@ makes smallest games. use 1 single mechanic.
 
 [[basic 3d movement]]
 [[basic camera system]]
-[[audio systems]]
-[[UI system]]
-[[controls system]]
+[[audio systems]] [[TakinGodotTemplate]]
+[[UI system]] [[TakinGodotTemplate]]
+[[controls system]] [[TakinGodotTemplate]]
 [[quest system]]
 advanced quest system*
 advanced 3d movement*
@@ -102,18 +102,18 @@ Social Loops
 # Helpers
 Event bus (autoloads)
 Fact Ledger & Rule Engine
-Save Load System
+Save Load System [[TakinGodotTemplate]]
 WorldClock
-Input System
-UI toolkit
+Input System [[TakinGodotTemplate]]
+UI toolkit [[TakinGodotTemplate]]
 Interaction System
 Item manager 
-Scene Loader 
+Scene Loader  [[TakinGodotTemplate]]
 Tag Registry 
 Formula (Curve) library 
 Routing Service 
 Spawner 
-Localization 
+Localization [[TakinGodotTemplate]]
 Telemetry 
 Cheats
 Mod Hooks
