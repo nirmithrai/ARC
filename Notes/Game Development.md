@@ -12,11 +12,11 @@ makes smallest games. use 1 single mechanic.
 - one way data flow. World emits events -> systems react -> UI updates. 
 - deterministic time. WorldClock 
 
-[[Game Development Studies]]
 [[Game Development References or Links]]
-\*=optional \*\*=untested
 
 # Modular systems 
+> \*=optional \*\*=untested
+
 [[basic 3d movement]]
 [[basic camera system]]
 [[audio systems]]
