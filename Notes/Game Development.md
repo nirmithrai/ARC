@@ -17,8 +17,8 @@ makes smallest games. use 1 single mechanic.
 # Modular systems 
 > \*=optional \*\*=untested
 
-[[basic 3d movement]]
-[[basic camera system]]
+[[basic 3d movement]] [[TakinGodotTemplate]]
+[[basic camera system]] [[TakinGodotTemplate]]
 [[audio systems]] [[TakinGodotTemplate]]
 [[UI system]] [[TakinGodotTemplate]]
 [[controls system]] [[TakinGodotTemplate]]
@@ -158,17 +158,4 @@ State machine inspector
 Linter (validator)
 Live tuning panel
 Logging setup 
-
-
-
-
-
-
-
-
-
-# References 
-[[I want to learn to write good gdscript code. Can you find me examples of good modular projects (games or plugins) that I can look at and study]]
-
-
 
