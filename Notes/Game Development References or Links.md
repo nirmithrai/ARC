@@ -1,8 +1,6 @@
 ###### **Godot starter template**
-[[TakinGodotTemplate]]
-https://github.com/TinyTakinTeller/TakinGodotTemplate
-a list of features this has
-https://github.com/TinyTakinTeller/TakinGodotTemplate/blob/master/.github/docs/FEATURES.md
+
+- [[TakinGodotTemplate]] https://github.com/TinyTakinTeller/TakinGodotTemplate *ABANDONED too fat*
 
 ###### **COGITO**
 [[Cogito - First Person Immersive Sim Template Project]]
@@ -24,6 +22,7 @@ coding stuff
 - add shake to things https://github.com/Eneskp3441/Shaker
 - [3D Auto Collision Generator](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click. *i feel like manually making collisions in blender would be a better option but for simple shapes it may be faster to use this*
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project. *in case i want to beat my head against a wall*
+- [Input Helper](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls. _(Godot 3 and 4)_
 
 debug stuff
 - signals visualizer https://github.com/Ericdowney/SignalVisualizer
@@ -62,20 +61,11 @@ audio stuff
 - [Event Audio](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system. *will it integrate with other systems? or is it its own thing?*
 
 
-
-
-
-
-
-
-
-##### stuff that should be part of [[TakinGodotTemplate]] already
-- [License Manager](https://kenyoni-software.github.io/godot-addons/addons/licenses) - Manage license and copyright for third party graphics, software or libraries. Group them into categories, add descriptions or web links.
-- [Input Helper](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls. _(Godot 3 and 4)_
-- 
-
 scene mgmt
 - [Scene Library](https://github.com/4d49/scene-library) - A tool for organizing Godot scenes with efficiency.
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. _(Godot 3 and 4)_
 - [Maaack's Scene Loader](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
-should already be part of [[TakinGodotTemplate]], but if i want something standalone, i can use this
+
+
+Misc
+- [License Manager](https://kenyoni-software.github.io/godot-addons/addons/licenses) - Manage license and copyright for third party graphics, software or libraries. Group them into categories, add descriptions or web links.
