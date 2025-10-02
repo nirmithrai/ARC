@@ -1,4 +1,4 @@
-# Major
+# Templates
 ###### **Godot starter template**
 - [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) - scene management, debug, CI
 - [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene. https://github.com/Maaack/Godot-Game-Template/blob/main/addons/maaacks_game_template/docs/PluginSuite.md for individual elements.
@@ -9,6 +9,8 @@
 [[Cogito - First Person Immersive Sim Template Project]]
 if i can combine it with the starter template, it will we awesome.
 
+# basics
+- [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector. *simple enough, works.*
 
 # features/mechanics stuff
 - flight sim https://github.com/fbcosentino/godot-simplified-flightsim *if i can simplify it further maybe i can add airplanes to the game*
