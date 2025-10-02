@@ -1,6 +1,6 @@
 # First Person
-- [ ] Look around
-- [ ] up down bounds
+- [x] Look around
+- [x] up down bounds
 - [ ] fov
 - [ ] camera shake
 - [ ] sensitivity 

@@ -10,7 +10,7 @@
 if i can combine it with the starter template, it will we awesome.
 
 # basics
-- [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector. *simple enough, works.*
+- [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector. *simple enough, works.* [[First Person Starter]]
 
 # features/mechanics stuff
 - flight sim https://github.com/fbcosentino/godot-simplified-flightsim *if i can simplify it further maybe i can add airplanes to the game*
