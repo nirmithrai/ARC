@@ -11,3 +11,6 @@ make sure that
 - project.godot, .godot, .git files are deleted. else godot will consider it a different project and so not show it in this one. 
 - addons are move and activated
 - autoloads are added
+- ![[Pasted image 20251002153142.png]]
+- in scene manager, do refresh and save
+- transfer input maps (can copy from project.go)
