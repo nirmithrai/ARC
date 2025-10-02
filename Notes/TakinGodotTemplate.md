@@ -1,4 +1,5 @@
-
+# ABANDONED
+too complicated
 https://github.com/TinyTakinTeller/TakinGodotTemplate
 
 
@@ -13,4 +14,4 @@ make sure that
 - autoloads are added
 - ![[Pasted image 20251002153142.png]]
 - in scene manager, do refresh and save
-- transfer input maps (can copy from project.go)
+- transfer input maps
