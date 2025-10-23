@@ -159,3 +159,7 @@ Linter (validator)
 Live tuning panel
 Logging setup 
 
+
+
+# Slop 
+[[I want to create a library of godot add-ons to use in future projects. How should I structure this]]

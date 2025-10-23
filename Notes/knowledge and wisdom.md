@@ -1,0 +1,1 @@
+With knowledge, the newer the better. With wisdom, the older the better
