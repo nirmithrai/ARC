@@ -37,6 +37,8 @@ Character
 		- staircase raycasts
 	- Touch (Interaction system)
 	- 6th Sense (External Signals Client)
+		- talking to the wall for wall running
+		- 
 	- Sense Extention
 		- weapons
 		- guns
