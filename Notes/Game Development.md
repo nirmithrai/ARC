@@ -1,4 +1,5 @@
 # Current Goal
+[[CharacterSystem]]
 [[Test Room]]
 [[Game Development Timetable]]
 
