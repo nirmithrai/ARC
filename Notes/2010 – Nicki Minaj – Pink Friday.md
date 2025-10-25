@@ -1,0 +1,4 @@
+---
+Aritst:
+  - "[[Nicki Minaj]]"
+---

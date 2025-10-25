@@ -1,0 +1,5 @@
+---
+Aritst:
+  - "[[Freddie Gibbs]]"
+  - "[[Madlib]]"
+---
