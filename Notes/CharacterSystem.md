@@ -71,12 +71,17 @@ Character
 		- StaminaSystem (running out of stamina)
 	- tools (pickaxe, torch)
 - Knowledge
-	- DefaultStats
-	- CurrentStats 
+	- DefaultStats (@export in knowledge node)
+	- CurrentStats (tracked by knowledge node)
 	- LevelingSystem
 	- HealthSystem
 	- StaminaSystem
 	- StatusEffects
+		- hurt
+		- heal
+		- poison
+		- useStamina
+		- recoverStamina
 		- burn
 		- wet
 		- cold
