@@ -7,7 +7,7 @@ Sat     Production
 
 ---
 
-## Programming (Gameplay & Tech)
+# **Programming (Gameplay & Tech)**
 ### Study 
 - sucessful projects
 - Save/Load 
@@ -39,7 +39,7 @@ Sat     Production
 	- plugins and add-ons 
 
 
-## Art & Animation
+# **Art & Animation**
 ### Study 
 - UV/texture/material 
 - Lighting & composition 
@@ -66,7 +66,7 @@ Sat     Production
 	- VFX sketching (particles, screen FX)
 	
 
-## Audio (Music & SFX)
+# **Audio (Music & SFX)**
 [[I know nothing about audio or music for video games Where do I start with this]]
 
 ### Study
@@ -84,7 +84,7 @@ Sat     Production
 - Mixing & loudness pass (headroom, bus routing)
 - Implementation practice (events, cues, RTPCs/buses)
 
-## Writing & Narrative
+# **Writing & Narrative**
 
 ### Study
 - Premise/worldbuilding scaffold
@@ -115,7 +115,7 @@ Sat     Production
 - Paper prototype (tokens/cards/dice or simple UI mock)
 - Economy/balance sketch (costs, sinks, pacing)
 
-## Production / Business / “Solo Studio Ops”
+# **Production / Business / “Solo Studio Ops”**
 **Go through each decipline and set up next steps** 
 ### Study
 - Risk assessment (identify→mitigate)
