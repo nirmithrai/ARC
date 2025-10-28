@@ -1,5 +1,0 @@
----
-Aritst:
-  - "[[Czarface]]"
-  - "[[MF DOOM]]"
----
