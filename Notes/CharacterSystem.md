@@ -1,5 +1,5 @@
 Character
-- **Soul** 
+- **Soul** (scene)
 	- **kbController**
 	- **mouseController**
 	- gamepadController
@@ -9,8 +9,8 @@ Character
 		- intelligence/strategy (npc)
 	- ReplayController
 	- NetworkController
-- **Brain**
-	- **Abilities**
+- **Brain** 
+	- **Abilities** (nodes)
 		- **walk** (locomotion layer)
 		- run (locomotion layer)
 		- jump (locomotion layer)
@@ -20,7 +20,7 @@ Character
 		- crouch (mode layer)
 		- prone (mode layer)
 		- clamber (mode layer)
-	- **Memory**
+	- **Memory** (scene)
 		- sense observations
 		- npc/enemy tracking
 		- env context
@@ -44,13 +44,13 @@ Character
 		- LevelingSystem
 		- HealthSystem
 		- StaminaSystem
-		- historySystem
+		- HistorySystem
 			- damage history
 			- npc interacted
-- **Body** (physics driven)
+- **Body** (physics driven) (Nodes)
 	- **CharacterBody3D**
 	- **Collisions**
-	- Skeleton3D
+	- Mesh/Skeleton3D
 	- AnimationTree
 	- VFX emitter
 	- SFX emitter
