@@ -1,7 +1,7 @@
 Character
-- Soul 
-	- kbController
-	- mouseController
+- **Soul** 
+	- **kbController**
+	- **mouseController**
 	- gamepadController
 	- AIController
 		- pathfinding
@@ -9,31 +9,56 @@ Character
 		- intelligence/strategy (npc)
 	- ReplayController
 	- NetworkController
-- Brain
-	- LocomotionAbilities
-		- walk (locomotion layer)
+- **Brain**
+	- **Abilities**
+		- **walk** (locomotion layer)
 		- run (locomotion layer)
 		- jump (locomotion layer)
 		- wallrun (locomotion layer)
-	- UpperBodyAbilities
-		- punch
-	- ModesSystem
+		- punch (upper body layer)
 		- sit (mode layer)
 		- crouch (mode layer)
 		- prone (mode layer)
-		- clamber
-- Body (physics driven)
-	- CharacterBody3D
+		- clamber (mode layer)
+	- **Memory**
+		- sense observations
+		- npc/enemy tracking
+		- env context
+			- footing
+			- ledges
+			- next corner
+		- tag handler
+		- StatusEffects
+			- hurt
+			- heal
+			- poison
+			- useStamina
+			- recoverStamina
+			- burn
+			- wet
+			- cold
+			- exhaustion
+	- **Knowledge**
+		- **DefaultStats** (@export in knowledge node)
+		- **CurrentStats** (tracked by knowledge node)
+		- LevelingSystem
+		- HealthSystem
+		- StaminaSystem
+		- historySystem
+			- damage history
+			- npc interacted
+- **Body** (physics driven)
+	- **CharacterBody3D**
+	- **Collisions**
 	- Skeleton3D
 	- AnimationTree
 	- VFX emitter
 	- SFX emitter
 	- Hitboxes
 	- Hurtboxes
-	- Collisions
-- Senses
-	- Eyes (Camera)
-		- 1st Person
+- **Senses**
+	- **Eyes** (Camera)
+		- **1st Person**
 		- 2nd Person (dialogue)
 		- 3rd Person
 		- 4th Person (cutscenes)?
@@ -47,7 +72,7 @@ Character
 	- 6th Sense (External Signals Client)
 		- wall surfaces broadcasting “runnable”
 		- 
-- Extensions
+- **Extensions**
 	- swords
 		- UpperBodyAbilities
 			- light attack (upperbody layer)
@@ -70,34 +95,7 @@ Character
 			- climb
 		- StaminaSystem (running out of stamina)
 	- tools (pickaxe, torch)
-- Knowledge
-	- DefaultStats (@export in knowledge node)
-	- CurrentStats (tracked by knowledge node)
-	- LevelingSystem
-	- HealthSystem
-	- StaminaSystem
-	- StatusEffects
-		- hurt
-		- heal
-		- poison
-		- useStamina
-		- recoverStamina
-		- burn
-		- wet
-		- cold
-		- exhaustion
-- Memory
-	- sense observations
-	- npc/enemy tracking
-	- env context
-		- footing
-		- ledges
-		- next corner
-	- history
-		- damage history
-		- npc interacted
-	- tag handler
-- DebugHUD
+- **DebugHUD**
 	- stats
 	- soul info
 	- brain info
