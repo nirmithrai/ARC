@@ -40,6 +40,7 @@ Sat     Production
 
 
 # **Art & Animation**
+[[Art Styles]]
 ### Study 
 - UV/texture/material 
 - Lighting & composition 
