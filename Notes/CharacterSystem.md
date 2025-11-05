@@ -1,4 +1,4 @@
-Character
+	Character
 - **Soul** (scene)
 	- **kbController**
 	- **mouseController**

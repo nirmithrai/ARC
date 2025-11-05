@@ -1,3 +1,6 @@
+# TODO
+- Gather Ambience/Atmosphere Loops
+- Figure out the most common sounds
 # Sources
 [freesound.org](https://freesound.org/)
 free but mixed quality

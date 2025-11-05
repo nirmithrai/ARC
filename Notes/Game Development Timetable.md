@@ -41,6 +41,7 @@ Sat     Production
 
 # **Art & Animation**
 [[Art Styles]]
+[[Fonts Readme]]
 ### Study 
 - UV/texture/material 
 - Lighting & composition 
@@ -68,7 +69,9 @@ Sat     Production
 	
 
 # **Audio (Music & SFX)**
-[[I know nothing about audio or music for video games Where do I start with this]]
+[[SFX Readme]]
+[[Game Music Readme]]
+[[Game Voice Over Readme]]
 
 ### Study
 - SFX design study (foley/synthesis)
@@ -84,6 +87,9 @@ Sat     Production
 - Adaptive/interactive audio logic sketch
 - Mixing & loudness pass (headroom, bus routing)
 - Implementation practice (events, cues, RTPCs/buses)
+
+### Slop
+[[I know nothing about audio or music for video games Where do I start with this]]
 
 # **Writing & Narrative**
 
