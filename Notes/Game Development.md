@@ -6,6 +6,15 @@
 ## Future Goals
 game kickstart template
 makes smallest games. use 1 single mechanic.
+
+# Tools
+game dev - [[Godot]]
+art references - [[Pinterest]]
+modeling - [[Blockbench]]
+music - [[Bosca Ceoil]]
+sfx - [[Audacity]]
+writing - [[Obsidian]]
+
 # Core Principles 
 - Data Driven Development. New content can be added by adding more data (assets, items, dialogues) rather than any code change. 
 - UI tools to create this data (quest creator, )
