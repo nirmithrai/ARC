@@ -42,3 +42,7 @@ Texturing
 - values (greyscale)
 - base colour 
 - details 
+
+
+importing to godot. do this
+![[Pasted image 20251107034339.png]]
