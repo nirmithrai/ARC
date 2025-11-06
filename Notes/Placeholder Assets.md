@@ -1,7 +1,12 @@
 # 0. Notes
 Doing it in [[Blockbench]] now. 
-get textures from https://www.kenney.nl/assets/prototype-textures
-[[Asset Creation Guide]]
+
+1. maintain a source glb folder
+2. create New Inherited Scene from that glb
+3. Now you can treat this as usual Godot scene. Add collisions, scripts, VFX, etc to it
+4. Save that scene.
+5. In projects, we will use this scene as asset. 
+6. if there's an update to the glb, just overwrite in the source folder, it should update its inherited scenes as well. 
 
 # 📦 1. Environment Building Blocks
 
@@ -63,3 +68,7 @@ get textures from https://www.kenney.nl/assets/prototype-textures
 - [ ] Cone marker: Ø1 × 2
 - [ ] Checkpoint pillar: Cylinder Ø0.25 × 2
 - [ ] Flag: Cylinder pole Ø0.1 × 3 with flat plane flag
+
+# old
+[[Asset Creation Guide]] 
+get textures from https://www.kenney.nl/assets/prototype-textures
