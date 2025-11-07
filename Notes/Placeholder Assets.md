@@ -8,7 +8,10 @@ Doing it in [[Blockbench]] now.
 5. In projects, we will use this scene as asset. 
 6. if there's an update to the glb, just overwrite in the source folder, it should update its inherited scenes as well. 
 
+-col on model will add collision to it
+-colonly for only collision without the mesh
 # 📦 1. Environment Building Blocks
+****
 
 ## Cubes / Boxes (base = 1×1×1 unit)
 - [x] Box 1×1×1 (basic cube)
@@ -17,20 +20,19 @@ Doing it in [[Blockbench]] now.
 - [x] Box 4×4×1 (big platform tile)
 - [x] Box 4×1×1 (wall segment)
 - [x] Box 4×4×4 (big block)
-- [ ] Box 1x4x1 (column)
+- [x] Box 1x2x1 (column)
 ## Walls
 - [x] Thin wall: 2x2x0.5
 - [x] Thick wall: 2x2x1
 - [x] Tall thin wall: 4x4x0.5
 ## Floors / Platforms
-- [ ] Flat tile: 1×0.25x1
-- [ ] Flat tile: 2×0.25x2
-- [ ] Large flat: 4×0.25x4
-- [ ] Ramp: 4×2×0.25 angled at 30°
-- [ ] Stairs (blocky): 2×2×2 subdivided
+- [x] Flat tile: 1×0.25x1
+- [x] Large flat: 4×0.25x4
+- [x] Ramp: 4×2×0.25 angled at 30°
+- [x] Stairs (blocky): 2×2×2 subdivided
 ## Doorways / Arches
-- [ ] Door frame: 2×0.25×3
-- [ ] Arch: 2×0.25×3 with curve cutout
+- [x] Door frame: 2×0.25×3
+- [x] Arch: 2×0.25×3 with curve cutout
 
 # 🪑 2. Props
 - [ ] Crate: 1×1×1
