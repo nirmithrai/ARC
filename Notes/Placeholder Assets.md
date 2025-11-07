@@ -1,6 +1,12 @@
 # 0. Notes
 Doing it in [[Blockbench]] now. 
+For BlockBench
+- name your meshes
+- get the pivot point right
+- .gltf
+- 
 
+For godot
 1. maintain a source glb folder
 2. create New Inherited Scene from that glb
 3. Now you can treat this as usual Godot scene. Add collisions, scripts, VFX, etc to it
