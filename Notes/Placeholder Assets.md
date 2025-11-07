@@ -11,19 +11,21 @@ Doing it in [[Blockbench]] now.
 # 📦 1. Environment Building Blocks
 
 ## Cubes / Boxes (base = 1×1×1 unit)
-- [ ] Box 1×1×1 (basic cube)
-- [ ] Box 2×1×1 (rectangular brick)
-- [ ] Box 2×2×1 (flat tile)
-- [ ] Box 4×4×1 (big platform tile)
-- [ ] Box 4×1×1 (wall segment)
-- [ ] Box 4×4×4 (big block)
+- [x] Box 1×1×1 (basic cube)
+- [x] Box 2×1×1 (rectangular brick)
+- [x] Box 2×2×1 (flat tile)
+- [x] Box 4×4×1 (big platform tile)
+- [x] Box 4×1×1 (wall segment)
+- [x] Box 4×4×4 (big block)
+- [ ] Box 1x4x1 (column)
 ## Walls
-- [ ] Thin wall: 4×0.25×2
-- [ ] Thick wall: 4×1×2
-- [ ] Tall wall: 4×0.25×4
+- [x] Thin wall: 2x2x0.5
+- [x] Thick wall: 2x2x1
+- [x] Tall thin wall: 4x4x0.5
 ## Floors / Platforms
-- [ ] Flat tile: 2×2×0.25
-- [ ] Large flat: 4×4×0.25
+- [ ] Flat tile: 1×0.25x1
+- [ ] Flat tile: 2×0.25x2
+- [ ] Large flat: 4×0.25x4
 - [ ] Ramp: 4×2×0.25 angled at 30°
 - [ ] Stairs (blocky): 2×2×2 subdivided
 ## Doorways / Arches
