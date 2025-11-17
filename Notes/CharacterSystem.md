@@ -50,12 +50,12 @@
 - **Body** (physics driven) (Nodes)
 	- **CharacterBody3D**
 	- **Collisions**
+		- Hitboxes
+		- Hurtboxes
 	- Mesh/Skeleton3D
 	- AnimationTree
 	- VFX emitter
 	- SFX emitter
-	- Hitboxes
-	- Hurtboxes
 - **Senses**
 	- **Eyes** (Camera)
 		- **1st Person**

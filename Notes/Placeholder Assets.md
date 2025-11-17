@@ -41,7 +41,7 @@ For godot
 - [x] Arch: 2×0.25×3 with curve cutout
 
 # 🪑 2. Props
-- [ ] Crate: 1×1×1
+- [x] Crate: 1×1×1
 - [ ] Barrel: Cylinder Ø1 × 1.5
 - [ ] Column: Cylinder Ø0.5 × 3
 - [ ] Rock: 1×1×1 blobby mesh
