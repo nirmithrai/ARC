@@ -1,5 +1,10 @@
-Source Unknown
-#book_notes 
+---
+author:
+  - "[[Unknown]]"
+---
+
+Source [[Unknown]]
+
 
 Read for action. Extract 1 idea from a book
 

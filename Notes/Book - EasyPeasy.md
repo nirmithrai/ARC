@@ -1,3 +1,8 @@
+---
+author:
+  - "[[Hackauthor²]]"
+---
+
 EasyPeasy
 Hackauthor²
 

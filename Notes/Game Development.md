@@ -10,7 +10,7 @@ makes smallest games. use 1 single mechanic.
 # Tools
 game dev - [[Godot]]
 art references - [[Pinterest]]
-modeling - [[Blockbench]]
+modeling - [[Blockbench]], [[Blender]]
 music - [[Bosca Ceoil]]
 sfx - [[Audacity]]
 writing - [[Obsidian]]

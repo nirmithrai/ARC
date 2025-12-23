@@ -1,3 +1,8 @@
+---
+author:
+  - "[[Corey Wrenn]]"
+  - "[[Daniel Pecaut]]"
+---
 03 University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting
 Corey Wrenn, Daniel Pecaut
 #book_notes 

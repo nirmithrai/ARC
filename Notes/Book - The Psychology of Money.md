@@ -1,7 +1,13 @@
-The Psychology of Money
-Morgan Housel
+---
+author:
+  - "[[Morgan Housel]]"
+---
 
-#book_notes 
+
+The Psychology of Money
+[[Morgan Housel]]
+
+
 
 My aunt worked several years in what Americans call “sweat shops.” It was hard work. Long hours, “small” wage, “poor” working conditions. Do you know what my aunt did before she worked in one of these factories? She was a prostitute.
 The idea of working in a “sweat shop” compared to that old lifestyle is an improvement, in my opinion. I know that my aunt would rather be “exploited” by an evil capitalist boss for a couple of dollars than have her body be exploited by several men for pennies.

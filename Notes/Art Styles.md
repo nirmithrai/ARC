@@ -1,10 +1,3 @@
-# Models
-1. Prop/object 
-2. Tree/nature
-3. House/building 
-4. Bust/human
-5. Vehicle/animal
-
 # Prehistoric & Ancient Art Styles
 
 [[Cave Painting]]

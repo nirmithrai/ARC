@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: All Books
+    filters:
+      and:
+        - file.hasProperty("author")
+    order:
+      - file.name
+      - author

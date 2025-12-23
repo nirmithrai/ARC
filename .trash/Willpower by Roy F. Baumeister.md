@@ -1,6 +1,5 @@
 ---
-author:
-  - "[[Roy F. Baumeister]]"
+author: "[[Roy F. Baumeister]]"
 ---
 
 Willpower
