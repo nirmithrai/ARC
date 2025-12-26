@@ -1,5 +1,10 @@
+---
+author:
+  - "[[Stephen King]]"
+---
+
 By [[Stephen King]]
-#book_notes 
+
 
 “When you write a story, you’re telling yourself the story,” he said. “When you rewrite, your main job is taking out all the things that are not the story.”
 

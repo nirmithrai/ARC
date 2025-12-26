@@ -1,6 +1,11 @@
+---
+author:
+  - "[[Roy F. Baumeister]]"
+---
+
 Willpower
 Roy F. Baumeister
-#book_notes 
+
 In psychology, brilliant theories are cheap. People like to think of the field advancing thanks to some thinker’s startling new insight, but that’s not how it usually works. Coming up with ideas isn’t the hard part.
 
 *****

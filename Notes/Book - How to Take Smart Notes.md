@@ -1,3 +1,10 @@
+---
+author:
+  - "[[Sönke Ahrens]]"
+---
+
+
+[[Sönke Ahrens]]
 # Summary
 This book talks about effective note taking by the use of Slip Boxes.
 
@@ -17,8 +24,3 @@ This book talks about effective note taking by the use of Slip Boxes.
 -   Follow your interest and clusters will form in the Slipbox.
 
 [Notion Link](https://www.notion.so/How-to-Take-Smart-Notes-2240e8de91b94ef0938db18846d6009b)
-
-#### Source
-[[Book - How to Take Smart Notes]]
-
-#zettelkasten #book_notes 

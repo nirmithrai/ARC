@@ -1,5 +1,0 @@
----
-Aritst:
-  - "[[Nas]]"
-Album: Single
----

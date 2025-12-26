@@ -1,0 +1,33 @@
+views:
+  - type: table
+    name: Fonts Table
+    filters:
+      and:
+        - file.inFolder("Design/Fonts")
+    order:
+      - file.name
+      - url
+      - preview
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 259
+      note.url: 289
+      note.preview: 389
+      note.tags: 173
+  - type: cards
+    name: Font Gallery
+    filters:
+      and:
+        - file.inFolder("Design/Fonts")
+    order:
+      - file.name
+      - tags
+    image: note.preview
+    imageFit: contain
+    imageAspectRatio: 0.3
+    cardSize: 490

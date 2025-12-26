@@ -1,5 +1,12 @@
-By Culadasa (John Yates)
-#book_notes  
+---
+author:
+  - "[[Culadasa]]"
+  - "[[John Yates]]"
+---
+
+
+By [[Culadasa]] ([[John Yates]])
+
 
 
 # Introduction 

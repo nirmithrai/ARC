@@ -1,4 +1,0 @@
----
-Aritst:
-  - "[[Lil Wayne]]"
----

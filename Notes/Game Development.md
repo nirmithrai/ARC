@@ -1,27 +1,31 @@
 # Current Goal
+[[CharacterSystem]]
 [[Test Room]]
+[[Game Development Timetable]]
 
 ## Future Goals
 game kickstart template
-[[Game Development Timetable]]
 makes smallest games. use 1 single mechanic.
-# Core Principles 
-- Data Driven Development. New content can be added by adding more data (assets, items, dialogues) rather than any code change. 
-- UI tools to create this data (quest creator, )
-- signals > autoloads 
-- one way data flow. World emits events -> systems react -> UI updates. 
-- deterministic time. WorldClock 
+
+# Tools
+game dev - [[Godot]]
+art references - [[Pinterest]]
+modeling - [[Blockbench]], [[Blender]]
+music - [[Bosca Ceoil]]
+sfx - [[Audacity]]
+writing - [[Obsidian]]
+
 
 [[Game Development References or Links]]
 
 # Modular systems 
 > \*=optional \*\*=untested
 
-[[basic 3d movement]] [[TakinGodotTemplate]]
-[[basic camera system]] [[TakinGodotTemplate]]
-[[audio systems]] [[TakinGodotTemplate]]
-[[UI system]] [[TakinGodotTemplate]]
-[[controls system]] [[TakinGodotTemplate]]
+[[basic 3d movement]]
+[[basic camera system]]
+[[audio systems]]
+[[UI system]]
+[[controls system]]
 [[quest system]]
 advanced quest system*
 advanced 3d movement*
@@ -102,18 +106,18 @@ Social Loops
 # Helpers
 Event bus (autoloads)
 Fact Ledger & Rule Engine
-Save Load System [[TakinGodotTemplate]]
+Save Load System 
 WorldClock
-Input System [[TakinGodotTemplate]]
-UI toolkit [[TakinGodotTemplate]]
+Input System 
+UI toolkit 
 Interaction System
 Item manager 
-Scene Loader  [[TakinGodotTemplate]]
+Scene Loader  
 Tag Registry 
 Formula (Curve) library 
 Routing Service 
 Spawner 
-Localization [[TakinGodotTemplate]]
+Localization 
 Telemetry 
 Cheats
 Mod Hooks
@@ -159,3 +163,7 @@ Linter (validator)
 Live tuning panel
 Logging setup 
 
+
+
+# Slop 
+[[I want to create a library of godot add-ons to use in future projects. How should I structure this]]

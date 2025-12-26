@@ -1,5 +1,0 @@
----
-Aritst:
-  - "[[Quasimoto]]"
-  - "[[MF DOOM]]"
----

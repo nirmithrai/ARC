@@ -1,4 +1,0 @@
----
-Aritst:
-  - "[[Pharoahe Monch]]"
----

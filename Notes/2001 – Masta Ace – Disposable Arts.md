@@ -1,4 +1,0 @@
----
-Aritst:
-  - "[[Masta Ace]]"
----

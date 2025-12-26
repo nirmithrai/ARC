@@ -7,7 +7,7 @@ Sat     Production
 
 ---
 
-## Programming (Gameplay & Tech)
+# **Programming (Gameplay & Tech)**
 ### Study 
 - sucessful projects
 - Save/Load 
@@ -39,7 +39,9 @@ Sat     Production
 	- plugins and add-ons 
 
 
-## Art & Animation
+# **Art & Animation**
+[[Art Styles]]
+[[Fonts Readme]]
 ### Study 
 - UV/texture/material 
 - Lighting & composition 
@@ -66,47 +68,61 @@ Sat     Production
 	- VFX sketching (particles, screen FX)
 	
 
-## Audio (Music & SFX)
-[[I know nothing about audio or music for video games Where do I start with this]]
+# **Audio (Music & SFX)**
+[[SFX Readme]]
+[[Game Music Readme]]
+[[Game Voice Over Readme]]
 
-- Music sketching (motifs, loops, chord palettes)
+### Study
 - SFX design study (foley/synthesis)
-- Adaptive/interactive audio logic sketch
-- Mixing & loudness pass (headroom, bus routing)
 - Sample/library organization & tagging
-- Implementation practice (events, cues, RTPCs/buses)
 - Ambience/atmosphere beds
-- UI/feedback sound set pass
 - Ear training & reference matching
 - Noise control & cleanup (EQ, dynamics)
+- UI/feedback sound set pass
 
-## Writing & Narrative
 
+### Practice
+- Music sketching (motifs, loops, chord palettes)
+- Adaptive/interactive audio logic sketch
+- Mixing & loudness pass (headroom, bus routing)
+- Implementation practice (events, cues, RTPCs/buses)
+
+### Slop
+[[I know nothing about audio or music for video games Where do I start with this]]
+
+# **Writing & Narrative**
+
+### Study
 - Premise/worldbuilding scaffold
-- Character sheets & voice exploration
-- Dialogue practice (banter, barks, economy of words)
+- Scene beat outline (setup→turn→payoff)
+- Lore bible upkeep (terms, timeline, factions)
+- Narrative systems notes (codex, logs, tooltips)
 - Quest/mission skeletons (beats, fail states)
 - Branching structure mapping (nodes, flags)
-- Lore bible upkeep (terms, timeline, factions)
-- Scene beat outline (setup→turn→payoff)
+
+### Practice
+- Character sheets & voice exploration
+- Dialogue practice (banter, barks, economy of words)
 - Tone/voice/style experiments
 - Naming pass (items, places, abilities)
-- Narrative systems notes (codex, logs, tooltips)
 
 ## Game Design
-
+### Study
 - Reverse-design teardown (loops, verbs, economies)
-- Core loop drafting (goal→action→feedback→growth)
-- Paper prototype (tokens/cards/dice or simple UI mock)
-- Economy/balance sketch (costs, sinks, pacing)
 - Difficulty curve & onboarding plan
 - Juice/feedback audit (responses, telegraphing)
-- Mechanic variations & constraints (one-button, no UI, etc.)
 - Level design blockout study (flow, affordances)
 - Progression & reward mapping (meta goals)
 - Accessibility pass (input, readability, fail-forward)
+- Mechanic variations & constraints (one-button, no UI, etc.)
 
-## Production / Business / “Solo Studio Ops”
+### Practice
+- Core loop drafting (goal→action→feedback→growth)
+- Paper prototype (tokens/cards/dice or simple UI mock)
+- Economy/balance sketch (costs, sinks, pacing)
+
+# **Production / Business / “Solo Studio Ops”**
 **Go through each decipline and set up next steps** 
 ### Study
 - Risk assessment (identify→mitigate)

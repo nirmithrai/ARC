@@ -1,5 +1,11 @@
+---
+author:
+  - "[[Steven Pressfield]]"
+---
+
+
 By [[Steven Pressfield]]
-#book_notes 
+
 
 1. Streamline the message
 

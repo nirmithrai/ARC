@@ -1,6 +1,11 @@
+---
+author:
+  - "[[Phil Town]]"
+---
+
 99 Rule #1
-Phil Town
-#book_notes 
+[[Phil Town]]
+
 We want to see a long history of great ROIC—at least 10 percent per year for the last ten years’ average.
 
 *****
