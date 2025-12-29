@@ -1,10 +1,15 @@
 ## Present
 [[Game Development]]
 [[Project Hip Hop]]
-[[Blockbench]]
+[[Very Short Introduction]]
+
 
 
 ## All Interests 
+#### Uncharaterized 
+[[Emotional Intelligence]]
+
+
 ### Art
 [[Blender]]
 [[Blockbench]]
@@ -20,6 +25,8 @@
 [[Photography]]
 [[Graphic Design]] 
 [[Advertising]] 
+[[Art Styles]]
+
 
 
 ### Science 

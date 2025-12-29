@@ -18,8 +18,8 @@ views:
       - Album
       - Album Art
       - Play
-      - Aritst
       - file.basename
+      - Aritst
     sort:
       - property: Release Date
         direction: ASC

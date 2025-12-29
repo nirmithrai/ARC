@@ -6,4 +6,5 @@ Album: Licensed to Ill
 Producers:
   - "[[Rick Rubin]]"
 Album Art: https://upload.wikimedia.org/wikipedia/en/6/67/Beastie_Boys_-_Licensed_to_Ill.png
+Play: https://music.apple.com/in/album/licensed-to-ill/1440912031?ls
 ---
