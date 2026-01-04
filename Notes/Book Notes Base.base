@@ -7,3 +7,6 @@ views:
     order:
       - file.name
       - author
+    sort:
+      - property: file.ctime
+        direction: DESC

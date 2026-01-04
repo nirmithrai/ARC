@@ -5,5 +5,10 @@ Play: https://music.apple.com/in/album/rappers-delight-long-version/1709475423?i
 Album: Single - Rapper's Delight
 Release Date: 1979-09-02
 Producers: "[[Sylvia Robinson]]"
-Finished: false
+Finished: true
 ---
+I can't believe how good the music on this is. How is the production better than half of modern Hip Hop? I also recognize a lot of the music on this. Really makes me want to explore r&b and soul music. 
+
+It's a bit too long but i did listen to the long version. I think it's the lack of meat on the lyrics that makes it feel too long. Like it feels like just filler bars. I'll chalk it up to the seinfeld effect. 
+
+Dissing MC's on the first Hip Hop track is kinda iconic ngl. 

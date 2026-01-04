@@ -8,4 +8,11 @@ Producers:
   - "[[Arthur Baker]]"
 Release Date: 1982-06-01
 Play: https://music.apple.com/in/album/planet-rock/1604619995?i=1604619997&ls
+Finished: true
 ---
+I've definitely heard a couple of the musical elements on this as well. I can't tell if it's from its past or future. Is it sampling or sampled.
+
+It's very fun so far. Both the songs have been more about the funky music so far.
+
+The music continues to be better than half of modern rap songs.
+
