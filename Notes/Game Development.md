@@ -26,12 +26,12 @@ writing - [[Obsidian]]
 [[audio systems]]
 [[UI system]]
 [[controls system]]
+dialogue system 
 [[quest system]]
 advanced quest system*
 advanced 3d movement*
 [[mini games]]
 [[inventory system ]]
-dialogue system 
 shopping system 
 crafting system*
 basic driving system 
