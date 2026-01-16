@@ -11,7 +11,7 @@ makes smallest games. use 1 single mechanic.
 game dev - [[Godot]]
 art references - [[Pinterest]]
 modeling - [[Blockbench]], [[Blender]]
-music - [[Bosca Ceoil]]
+music - [[Bosca Ceoil]], [[Garage Band]]
 sfx - [[Audacity]]
 writing - [[Obsidian]]
 
