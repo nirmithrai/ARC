@@ -2,6 +2,31 @@ properties:
   note.Aritst:
     displayName: Artist
 views:
+  - type: cards
+    name: Hip hop Cards
+    filters:
+      or:
+        - file("01 Hip Hop Timeline 80s").hasLink(file.file)
+        - file("02 Hip Hop Timeline 90s").hasLink(file.file)
+        - file("03 Hip Hop Timeline 00s").hasLink(file.file)
+        - file("04 Hip Hop Timeline 10s").hasLink(file.file)
+        - file("05 Hip Hop Timeline 20s").hasLink(file.file)
+    order:
+      - Album
+      - Aritst
+      - Release Date
+      - Play
+      - Finished
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.basename
+        direction: ASC
+    rowHeight: medium
+    image: note.Album Art
+    cardSize: 300
+    imageFit: ""
+    imageAspectRatio: 1
   - type: table
     name: Hip hop
     filters:
@@ -37,30 +62,6 @@ views:
       note.Play: 214
       note.Aritst: 185
       file.basename: 303
-  - type: cards
-    name: Hip hop Cards
-    filters:
-      or:
-        - file("01 Hip Hop Timeline 80s").hasLink(file.file)
-        - file("02 Hip Hop Timeline 90s").hasLink(file.file)
-        - file("03 Hip Hop Timeline 00s").hasLink(file.file)
-        - file("04 Hip Hop Timeline 10s").hasLink(file.file)
-        - file("05 Hip Hop Timeline 20s").hasLink(file.file)
-    order:
-      - Album
-      - Aritst
-      - Release Date
-      - Play
-    sort:
-      - property: Release Date
-        direction: ASC
-      - property: file.basename
-        direction: ASC
-    rowHeight: medium
-    image: note.Album Art
-    cardSize: 300
-    imageFit: ""
-    imageAspectRatio: 1
   - type: cards
     name: 80s Hip hop Cards
     filters:
@@ -194,3 +195,38 @@ views:
     cardSize: 300
     imageFit: ""
     imageAspectRatio: 1
+  - type: table
+    name: Hip hop 2
+    filters:
+      or:
+        - file("01 Hip Hop Timeline 80s").hasLink(file.file)
+        - file("02 Hip Hop Timeline 90s").hasLink(file.file)
+        - file("03 Hip Hop Timeline 00s").hasLink(file.file)
+        - file("04 Hip Hop Timeline 10s").hasLink(file.file)
+        - file("05 Hip Hop Timeline 20s").hasLink(file.file)
+    order:
+      - Finished
+      - file.name
+      - Release Date
+      - Album
+      - Album Art
+      - Play
+      - file.basename
+      - Aritst
+    sort:
+      - property: Release Date
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: file.links
+        direction: DESC
+    rowHeight: medium
+    columnSize:
+      note.Finished: 40
+      file.name: 192
+      note.Release Date: 116
+      note.Album: 183
+      note.Album Art: 185
+      note.Play: 214
+      note.Aritst: 185
+      file.basename: 303
