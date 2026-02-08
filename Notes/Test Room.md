@@ -2,11 +2,11 @@ A room which has a little bit of everything. Mainly to test out anything and eve
 
 [[Placeholder Assets]]
 
-[[basic 3d movement]]
-[[basic camera system]]
-[[audio systems]]
-[[UI system]]
-[[controls system]]
-[[dialogue system]]
+- [ ] [[basic 3d movement]]
+- [ ] [[basic camera system]]
+- [ ] [[audio systems]]
+- [ ] [[UI system]]
+- [ ] [[controls system]]
+- [ ] [[dialogue system]]
 
 

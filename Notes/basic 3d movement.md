@@ -1,8 +1,8 @@
 # First Person
 [[First Person Starter]]
-- [x] walk
-- [x] run
-- [x] jump
+- [ ] walk
+- [ ] run
+- [ ] jump
 - [ ] crouch
 - [ ] interact
 - [ ] ladder*
